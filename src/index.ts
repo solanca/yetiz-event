@@ -28,7 +28,11 @@ const fetchAndUpdateActivities = async (collectionSymbol: string, filePath: stri
     console.log(`Updated ${filePath} with ${uniqueActivities.length} unique activities`);
     if(newLength > 0) {
         const getAttributes = newActivities.slice(0,newLength).map(async (item,index) => {
-          return await getMetadataAccount(item.tokenMint);
+            console.log('mmm==',item.tokenMint);
+            if(item.tokenMint) {
+
+                return await getMetadataAccount(item.tokenMint);
+            }
           
         })
 
