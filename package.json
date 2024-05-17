@@ -1,0 +1,29 @@
+{
+  "name": "yetiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-candy-machine": "^6.0.1",
+    "@metaplex-foundation/mpl-core": "^0.4.7",
+    "@metaplex-foundation/mpl-token-metadata": "^3.2.1",
+    "@metaplex-foundation/umi": "^0.9.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.9.1",
+    "@metaplex/js": "^4.12.0",
+    "@solana/web3.js": "^1.91.8",
+    "axios": "^1.6.8",
+    "borsh": "^2.0.0",
+    "brush": "^1.0.3",
+    "bs58": "^5.0.0"
+  }
+}

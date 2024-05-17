@@ -1,0 +1,4904 @@
+[
+  {
+    "signature": "2ADpKEtxxwFvK3nu7tF59ESFtksvSVR1x6VfVvwsKKQEKFvbgSy9TcFMz6jCy9DbRyCMHyDcs5DkX8rSn2mGRqL9",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5RXBSGuJV2JtgTVs9QBi4icmtKnFP6EsUg5eeNeqLn51",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287938,
+    "blockTime": 1715935735,
+    "buyerReferral": "",
+    "seller": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "sellerReferral": "",
+    "price": 0.35,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "350000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/0fqlu4EOxNlFIx49b-FJJjFh-evdf5T_cj0d0uNZk0s?ext=png"
+  },
+  {
+    "signature": "4G5ESnrXDm86W9sWfaVDKLYpbYvjybKfZJg2deJRpnrM835Ppemg2f4B1itbXrSmm31r9ZVcKnh1dNPhDiQBqHmN",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "Gkg68eAwsunv4S94cbYbf2a4BSGm4KSpfPLCEETK18kB",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287873,
+    "blockTime": 1715935706,
+    "buyerReferral": "",
+    "seller": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "sellerReferral": "",
+    "price": 0.32,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "320000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/h37p8z41Zg_KBV5eJ0C7a_mbSZRHouBFRZY4wOwY6JU?ext=png"
+  },
+  {
+    "signature": "5bgAiJF8y4cdvor1CesbB7MJiFdFXMsi5RwTKiwDWmLXfwhWmKrWvKVZqLS7u3y5ZuFaFnbPksb5RXGpG3TkhAVy",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287848,
+    "blockTime": 1715935696,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.219999999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219999999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "62peqthj4rmKuKwWsoemX464mCzVSZHhCtBsYWLcCuCvmCHC9Fee3e4MGkGpGkn6dbYvCB9DPb4PgCsoFN2z3LMP",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "ECPuCy9ZiRceExa8e1pjbMzVXUvsah2FCMFDSeoDZkZG",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287712,
+    "blockTime": 1715935636,
+    "buyer": "6ndQzt6ecY2f5KZJQhboRDhzdJAamHuqqcSVvK3FAKfa",
+    "buyerReferral": "",
+    "seller": "6GEXA97VANiy4pSKgDXkoniuty8v91bVYuzRwZmzFPrQ",
+    "sellerReferral": "",
+    "price": 0.203,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "203000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/6mJ2NgV9Y1kP2lmzK_8Zys8hsryWDoDUAkSJ-f9DwS8?ext=png"
+  },
+  {
+    "signature": "2WroaNotb4NrLMbMK3oXunMBFsx2EWnmMCFe7JNr5PL4h5HPrJZkBN8Wr7qhCFN7ehEf3bu9aSyN7PFQv69Q2jtx",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287568,
+    "blockTime": 1715935574,
+    "buyerReferral": "",
+    "seller": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "sellerReferral": "",
+    "price": 0.215002,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "215002000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "3c9GUJZ7pUzfkdymqx2yCLyLgDjnaS8wfLkjAzFENCReHGxZGVjEs68afeSmi8SEZSUHH698rxTScDV2ikXf7KrL",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "Gkg68eAwsunv4S94cbYbf2a4BSGm4KSpfPLCEETK18kB",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287372,
+    "blockTime": 1715935489,
+    "buyerReferral": "",
+    "seller": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/h37p8z41Zg_KBV5eJ0C7a_mbSZRHouBFRZY4wOwY6JU?ext=png"
+  },
+  {
+    "signature": "3fiW6esm8MHZrQoZs6zdPDuCo7CDUF8fED9RZTheGqgoyxcok1iRrKjWSuuMNrR8CQ3N1fyqFjdMJBkBnxFboiTJ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5RXBSGuJV2JtgTVs9QBi4icmtKnFP6EsUg5eeNeqLn51",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287225,
+    "blockTime": 1715935425,
+    "buyerReferral": "",
+    "seller": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "sellerReferral": "",
+    "price": 0.4,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "400000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/0fqlu4EOxNlFIx49b-FJJjFh-evdf5T_cj0d0uNZk0s?ext=png"
+  },
+  {
+    "signature": "4ranhxTU61NVdE8pzPKuX3MgiRMYG6f1FeNMmWFiRWvpFxMnjrDsw4R52aGAj8JZfMTUJcqLVNdvZUhJLzord1uM",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "C2mi6Ccw5uFe7LHF4FXayrXL2xvgnNBEeRk2PdCuXnDH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266287110,
+    "blockTime": 1715935374,
+    "buyerReferral": "",
+    "seller": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "sellerReferral": "",
+    "price": 0.249,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "249000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/S2jjjkXliJT3aTtpfZyqFCr3iEVbqkccvVjRtK87yos?ext=png"
+  },
+  {
+    "signature": "4vHMkYeQ1PF7h6QhSKk2mwBTUb2NxUp4XVtBUoYckaPomHjjgSWaRYifX5TwFmWdczxGSdiiBPtekeo7tvmYHMsw",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "3MmQk65t1fiB2pqRg2V9L2F8wrxDpErjtatN7krbbgGh",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286874,
+    "blockTime": 1715935272,
+    "buyer": "94PVvVB8bv75n3xUrkPEBbwK9wC3NCL3Aof1YcyF6wjx",
+    "buyerReferral": "",
+    "seller": "2RWH4mbdqLtCrY6cT8ZGTZ1AU8fV3y58oHLCjaHACmGa",
+    "sellerReferral": "",
+    "price": 0.35,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "350000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/-YXxwkPSII6rwmqOTVIney3T9ZOy0YL_fomwj64mQnQ?ext=png"
+  },
+  {
+    "signature": "3wAfevnYfwWAF8sGAFcmRyYVsBu9cTuAurjdGuuv7YkX72DqUMW25TLinQ6QKfEoygywN1EG3s2MVBaxM45xfip1",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EEYVwkxjEKhPm95qrVehUhBCZmyuDbPuihoCvDgfrCb1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286485,
+    "blockTime": 1715935105,
+    "buyerReferral": "",
+    "seller": "2RWH4mbdqLtCrY6cT8ZGTZ1AU8fV3y58oHLCjaHACmGa",
+    "sellerReferral": "",
+    "price": 0.35,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "350000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/sHwUMYcby5MqbeIRHfOxDhl03LOw9Vl607bWT8N2pkU?ext=png"
+  },
+  {
+    "signature": "3e37zMBHMmgn4nLrxUnabLbfvYWnLMqmvKgJHShxB9GYKEZsMRH6skN2yh4mnpoHkfb1JKJ8y6kWjsRiVbmVYGwM",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "3MmQk65t1fiB2pqRg2V9L2F8wrxDpErjtatN7krbbgGh",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286484,
+    "blockTime": 1715935105,
+    "buyerReferral": "",
+    "seller": "2RWH4mbdqLtCrY6cT8ZGTZ1AU8fV3y58oHLCjaHACmGa",
+    "sellerReferral": "",
+    "price": 0.35,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "350000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/-YXxwkPSII6rwmqOTVIney3T9ZOy0YL_fomwj64mQnQ?ext=png"
+  },
+  {
+    "signature": "5L3T1ezGWwtn3XTVMMLp8bdSYBDQswPzP8mwHi9Zof6ETdSesDtdnnpi8cjLvCf3LSVS5o9LuZd4TbTpG1fzcd3x",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "4f5JNQDvkMKiFQALjh4rcyEDBBN24DcFwPqXNzVQmMg8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286024,
+    "blockTime": 1715934906,
+    "buyerReferral": "",
+    "seller": "hgDx33S6y4fmVmYRWHr3572mh7f7UKiHijN5mwbjdSE",
+    "sellerReferral": "",
+    "price": 1.31,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1310000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/-EVcPo6uQbQOiOGHVHA3j714-4l3MurS5SCNESsiB10?ext=png"
+  },
+  {
+    "signature": "3BPu3HTkmvgC6YpwWLVACR88fekd29J9kFu5PgiAeuxwSJsK49DGee2Qdc4dr8j4rqQ15uGxeDcJFEAq6RawHuHS",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "7Cca6MQ4fmts87XFpfHxMEJzQKZQefnoDmseihTBSB2a",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286012,
+    "blockTime": 1715934900,
+    "buyer": "3rXCxq54RjxzCo91Tie1UL1aC6cj4Lq3KhJ6SbCcDUSx",
+    "buyerReferral": "",
+    "seller": "4tE173VjtpLU8XrmCKFy6wjQW5W35htxd5LZdbE94vN3",
+    "sellerReferral": "",
+    "price": 0.26625,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "266250000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Hpyd_JDWkva_o__oYSxmY3chXpyJJusa7oZtm2NNrz4?ext=png"
+  },
+  {
+    "signature": "5LMsjGsmBAtJYYYn7xChPDVyBBk4Yjegk8zjzZLn2B9LEuBgL8SdoVnBpeDpxRpkrGPRkWXKNyBSLJfvJ2egQeyv",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9YYjBUs7r1GbtNjBHGZkZTAmwa8q4xSz6fWWynUtLCSy",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266286008,
+    "blockTime": 1715934898,
+    "buyerReferral": "",
+    "seller": "BAb6JZis26BGrhi5ByxszHRsS9TWcAEwGqtATGkndJQL",
+    "sellerReferral": "",
+    "price": 1.15,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1150000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/2_yVn23DnWAbh1ay8sjnRmZh_5QsC7Sp9jx9rtXEmKU?ext=png"
+  },
+  {
+    "signature": "3qD9gon9ydwBY5KMznhNyULyriH92JNKZRzB6RSqa9zHZMhH4HZDvJs1zCWbDh55LwUFfshXRwjAms2GBMCPqURC",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "AKpscHQ1gAYvLCM1uc47hND9JNXeYbFMULT2o1Mz2uz1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285822,
+    "blockTime": 1715934818,
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0.2199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/M9tYesrDJGSS145JS3iRByDGTe3sUvNUrKOzvm_2fg0?ext=png"
+  },
+  {
+    "signature": "3JakBvdtCC2ivvNAFV2Z2nGSzXeXZvBPgt8QyyYKtiD5wCc1uSuYF4rapLXSvhVyG7a8Vv5k3o914rJatzkFW5Qw",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "6cQJcohpm6ooCw3VLaBtZ7C3expdL6gniJqCHvxZB2hV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285823,
+    "blockTime": 1715934818,
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0.2199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/p-qZOGohS5FZhd49r2xke8Mjbgj7nJ8zICEoI1_mG90?ext=png"
+  },
+  {
+    "signature": "FM5BA538TSu7uTcV3mXf4WnHofUEz7P5DPEpA6ScrwBtDmuDTHKJyLNhdFahuU9uHnqnhTS7eSBBra4pb8hvsNK",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285755,
+    "blockTime": 1715934791,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.225,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "225000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "cJa2orX8WYY96gNMB4ppbhAvSRPNyEbMnUzEU3mAv8BXwQg8fsxtCjSstkRm7iHsNSSHNFKQJoKjk1KpKnK3mZB",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "CyfcwDW1rJd748DXK3GdhYiGCTAVXxWsmdQRkyAxCnrR",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285169,
+    "blockTime": 1715934534,
+    "buyer": "BG6JQR7VtYGuy8tn9pnLSSzDPskMucVcPT4WFCYmw6e5",
+    "buyerReferral": "",
+    "seller": "8jeCsg5Y172NJPgByugQqYrbuRUXGrW8eqdpJt15kvSa",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/wDFW4imPA-gBX6g8WSZPytPgAOCdT14x7GMBfya22B4?ext=png"
+  },
+  {
+    "signature": "5fDyF7L8SECtu2L1uuzrPHSsZHZ3wGLb9xVchUiPYWwu8DXorv18Aa8rhH1Zchvx7yFjyFL6CEsUgQ855az2dCXT",
+    "type": "poolUpdate",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285136,
+    "blockTime": 1715934518,
+    "buyerReferral": "",
+    "seller": "2SfmYKQ6QhJ92Unk7GUruDPdTYmiyBXcKqwiwA1dBu6c",
+    "sellerReferral": "",
+    "price": 0.175,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "175000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "2gx7Qide9KjzFUALFBjrVU4jRL1R5c1JpnkAJjKzYu5h319XJcfG9mJ9xSH1LrDgBjh73Bo6z54AmtttQQSebjor",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266285077,
+    "blockTime": 1715934491,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.219999999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219999999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "qJg8JBfrt3dbnJj7kZAMM4qH8eNmrG4MLG153RSvfDJWU4mMgQsD6z4vL4L57UsDdrmGnxjw3gwwAjdaiWeC5Gc",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7iW5sRckLEnrJE9w4h65E7tMZ4Fqsr3k5qCL8cHQBiPz",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266284645,
+    "blockTime": 1715934302,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.6949,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "694900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/HAga_z5JkTLlxub7LW5AkZ2ShTi3paNTnU0KPCyK0Fs?ext=png"
+  },
+  {
+    "signature": "3fzad5zRw4Dc7csQvztjzDGDYCqkQu2mgGft7zXuGYNe6m1bbhRLXCp59Hy1vgwZoVdrcYV2D9vyddSr5LRsx6uG",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266283930,
+    "blockTime": 1715933992,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1201,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "120100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "31d1PWvQXAcpvokvKWGLdq66VgrFTjGm6TWXJeQeHc9Raj2z2119HdWxDUsFq1xCT1b6bKvS1vLL2HBABQoF12Lt",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "HysaHra9G5kWkyYAfUcFic6CT1KQcVFPgvNTdiMzec8S",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266283545,
+    "blockTime": 1715933825,
+    "buyerReferral": "",
+    "seller": "BbvdcB755qJAC2VcxjK5fcYp8aXYSXDYZgpmaY95SuJD",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/PRHCWdn4nZ2FaPXcSzHZmzqKAXZ3Lh-byYGWx0XQs6Y?ext=png"
+  },
+  {
+    "signature": "5pzevNcKWTk4fZZQz27MoysF4g5LSoSshDREvxqs7BHxREAwx7jJqCJGcPxR8XKsPaYR6qx1uvnqbAY1N1uJ9xNt",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266283336,
+    "blockTime": 1715933737,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1681,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "168100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "erXX1RwvnbnEb8nAJkNKQeaedVMzZKooDv8BpXCPdmLZ1XmZgEP9M2wzseQNhxhbUSbS1AgyYmcvk6Knfgt7ipY",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "FQfGtpM58CF72rFuQQXAatJbRQsVfPq6ywVshaLCV5jH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266283020,
+    "blockTime": 1715933600,
+    "buyerReferral": "",
+    "seller": "BRzCZZZAB5YsAeGLtBD44xhfXaGCs36x2Lx7MwRmVX2S",
+    "sellerReferral": "",
+    "price": 3.79,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "3790000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/9lBeYmu4-vuj_r7dpFtTFJ7Svr9FI-H_yOrasp2i7O4?ext=png"
+  },
+  {
+    "signature": "68Chog2Wxio1TwbueiujJot17e7EUpo7iv4C7Dpi5MMDSPCkPExxteD7atyQStUV58DbGQBNSLfRSdk5GWHAybg",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "FQfGtpM58CF72rFuQQXAatJbRQsVfPq6ywVshaLCV5jH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266282937,
+    "blockTime": 1715933563,
+    "buyerReferral": "",
+    "seller": "BRzCZZZAB5YsAeGLtBD44xhfXaGCs36x2Lx7MwRmVX2S",
+    "sellerReferral": "",
+    "price": 3.06,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "3060000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/9lBeYmu4-vuj_r7dpFtTFJ7Svr9FI-H_yOrasp2i7O4?ext=png"
+  },
+  {
+    "signature": "2nUHdtxhQgw57KKBsmWTQj8fvsCdC5fGH9BubgSQsUkmXynYTagPkmaAU1EKksktVAofK5bfeeVp98UULRGQf84Q",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2QmmUJ2YjkyJ3TDvbZXks2bdaKdsy1zFkdXPd4bm7SAJ",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266282790,
+    "blockTime": 1715933498,
+    "buyerReferral": "",
+    "seller": "BRzCZZZAB5YsAeGLtBD44xhfXaGCs36x2Lx7MwRmVX2S",
+    "sellerReferral": "",
+    "price": 1.53,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1530000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/IRg6m9zWy0GgtrGgYk1oErdryrpnBrr4WA1w0eJDl6k?ext=png"
+  },
+  {
+    "signature": "aNfVTgKqGfdHErjsVr5erme6krXM3kBmMWh3J7jZz6ipG5cibBTQsYMKmzKP2a52nKYbH9gwgsfWWNTEJ9P4SNi",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "F3Bbi6APHR2W8BrKxVW496XJ7YBgBjg6NNr1Cv35rY5z",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266282427,
+    "blockTime": 1715933346,
+    "buyerReferral": "",
+    "seller": "BRzCZZZAB5YsAeGLtBD44xhfXaGCs36x2Lx7MwRmVX2S",
+    "sellerReferral": "",
+    "price": 0.59,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "590000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/6KhybMfQw7dz9nAgj9ASnPBia51dZmzzj8cX5fqj6ls?ext=png"
+  },
+  {
+    "signature": "35RmQZq2uoYJHnhqU3pwApWmA8Y8fnd2MxMUrDTEaK7xVmrLXednFmXzPjybjAZjUbMDZioqvSekj6t8wXZJ9Nrq",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266282257,
+    "blockTime": 1715933273,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.225,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "225000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "yRAYEaa49Gaau3g6oSkwT4sHfL225YabMdCbg74C844oEzKQbQc6xyFCPPo7FmtGZFmpj8DzC1CfijmxrShQa9S",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266282212,
+    "blockTime": 1715933255,
+    "buyer": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1904931,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "190493100000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "2qqQsT6eKGrcXLqaTMs7LFiU2JPyjXgL8uMsVkXvFh5y8Azvu6NGLR1f8e9GHi7fskkFvYH7KzBFVXn8AKnDkw4b",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "Fg2GRYZTR5ooUD3dvp7gyuMQahPtDRqMgyEMf1aY5bFY",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281800,
+    "blockTime": 1715933076,
+    "buyerReferral": "",
+    "seller": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "sellerReferral": "",
+    "price": 0.3322,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "332200000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Zkf2_9CF-0gIXF3hQ6nv7sh9L86Yex6896aseEjIr4g?ext=png"
+  },
+  {
+    "signature": "DHg4g9ceL71kBgNY8akMyZwEEau3vXkbuUQgPKn7ctZKWpaZjyyEbKKEksJGezMM5YqUiKW1k9tRHEaK3Xm7A4e",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "2L9gn4XpyBudioDjqmpXeRsyfo1p32nenK5gR4br64KF",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281651,
+    "blockTime": 1715933007,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/JoI9C9DLnQSS5Ij3HIxOBh7svfHSZldNqIjWu4gLILk?ext=png"
+  },
+  {
+    "signature": "5WWGwv6g5vtUdmciA54bUyi4tmU9QyADxX3yP2PCdsdGoK3bFMYgWM12KUDVDZTzS135s932f4ALFa93sHFnBoZo",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "9KeDrzakDJfxqEPzdpkY5Pm9efyHouM3sVVbJ7t4BHwC",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281648,
+    "blockTime": 1715933006,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/JhfU5tEaHzDgNr9rN5wnYGUwly5q7BdszS7v7gk_zqc?ext=png"
+  },
+  {
+    "signature": "3vWkrW4rYnSmqTP5NNhTWJDz376s95Ri9wS4Y2UHF94YAbutGkpEHruMnK7kmr6cGF19f8YNEPDYrhh7VVZddiG6",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "FhJM3ABr2DQEsb945B8UEatGvA3iWvZXgrTkEBWAYhMk",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281648,
+    "blockTime": 1715933006,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/aJPpIvCzt_6YJrdE5YX08dKksnDnIWO-dKmPSA7VRDY?ext=png"
+  },
+  {
+    "signature": "5uXuSALzEQovsPkukyxzNRRVBQXse2XxAGzzanfCbsH7haWgZKpW4C7HbWbt8xjBhrFfoBxifaumP2yMHP2wStVZ",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "EjHJi1Ft7HuFyY6iCXc4dfp9BkFEdWy4wdUBLnE6hhpt",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281644,
+    "blockTime": 1715933004,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/xlwpYxKc_kBpH8m-n0j5kHf2rr9lBUqYpjIsyRHwJfE?ext=png"
+  },
+  {
+    "signature": "2XnvT2e72QvBiSAntu8z1pkvS7dUmhXG1CrZx7LayY44G2ZxeHn5NAivycN4cEqvNLBz5t9M3B3a4AjEnKeLRTwM",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "EaPxAski35wsH8guYFPBLTDrrWYkLfDTJok4K3QGQuT4",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281641,
+    "blockTime": 1715933003,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/2SQ7kNGlXMepafPQjM3kYE0xVKoFjd_2ZHxPfJfzDlo?ext=png"
+  },
+  {
+    "signature": "5R4VTvdNdf3Lr78Zu6s9yCJMaGajkN3iTLDYguNmpGNkYrViAh7xXagyJVYuMqT1oYDWAFKgsQ3uMxwc11k3z4pD",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "ECL4r6m9Rpb3qdnHkHLB7empPSsCVCePnSvYnX15yoJp",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281636,
+    "blockTime": 1715933001,
+    "buyerReferral": "",
+    "seller": "CacyWWg2PNZRphKTeKr9A66VZ7pQYnYCDBMKJNgX98nr",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/L14Z0PF-F-Z5FZfphyeYjMIYSr3obntTpP_bsV4qoes?ext=png"
+  },
+  {
+    "signature": "5vPVsb1zKCUrPTRxS7QNLbT3t5hcaKM5zLM751ot6Dn3QTdn6MFHrvEhq8GJS14gvqohQtktWWiSXpBYFVtpraue",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266281522,
+    "blockTime": 1715932950,
+    "buyer": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.19062645,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "190626450000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "2k3c5zNX53snoeGCafaPZMMTLXLeHq1kHVBtoRvRi1gZXHpQpiweMrhi1kx7ZFKDEMMcWkFkQSZgKQRNfSUBGVzR",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DuVJRxyJPPSiiifkCQx6geAe1G97Z7VQTgcSwYi4U7KB",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266280992,
+    "blockTime": 1715932723,
+    "buyerReferral": "",
+    "seller": "5PdMAm8goderULB3vxTB2dwcH55ifCmXxpC44rpo9STC",
+    "sellerReferral": "",
+    "price": 0.43,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "430000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/zba3-KII3QQEWsw_z4Cw2iVIYkh_aLQmFYJX-MlpNTU?ext=png"
+  },
+  {
+    "signature": "4wDHGFbbRCz12QCwxMhGLzZk1G2mmtXefjNJsN7aHwtCMNEN6SEBVAQPuZTWszfN7TPx5vGvNxirUPPvnzUUqngN",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CyfcwDW1rJd748DXK3GdhYiGCTAVXxWsmdQRkyAxCnrR",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266280653,
+    "blockTime": 1715932576,
+    "buyerReferral": "",
+    "seller": "8jeCsg5Y172NJPgByugQqYrbuRUXGrW8eqdpJt15kvSa",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/wDFW4imPA-gBX6g8WSZPytPgAOCdT14x7GMBfya22B4?ext=png"
+  },
+  {
+    "signature": "tcUPy9PTVngetKq5Fid6EeoGNXaZowxbdMMxcExzhYvSUdi39DCSCURB7ns5LPwDkYkjhGbcka67c6UeS19UJYc",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "CxKZKnem2vHUzs41Y9KUSd6T77LrghbxfcbWiN4XjQJo",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266278837,
+    "blockTime": 1715931784,
+    "buyerReferral": "",
+    "seller": "ZvWRwPk9dsYLkPggnWhewuh9F6LW3VtmNvWyhSFSWMS",
+    "sellerReferral": "",
+    "price": 0.24,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "240000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/UfRdkW_8E91mVU8MJvNccOQ9vyy6NkGbaG0nzou5g7g?ext=png"
+  },
+  {
+    "signature": "5MXbT5hJrXJCYhLPB3wDt2bmiQybrk3rhRoAbz2CehyydaXHDbn5meuHDZDBQsEdxsLYzdao3RWVMpEs82oEbRcP",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "E6Qx8Kx31C9gjmEVJjHVmiq9uoAw8bXZr1ARP167faZq",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266278312,
+    "blockTime": 1715931558,
+    "buyerReferral": "",
+    "seller": "3wKd5Q4f4X1s4ZghaXT6DRB2KrRVdRx7Rz3MjNdgi5fR",
+    "sellerReferral": "",
+    "price": 1.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/qvCwKC2CFEQBFLeFNgh6TPu94UHQO4TQih6k51zGaVU?ext=png"
+  },
+  {
+    "signature": "4K3Kb2hzXgi8MNjYb9LetuofWvqCD5oihLTsiWrogAH3gZJ7fMhiMhE4zJsqn4RTMqDfAN6BTBY3UKbo7s8NPUH1",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277927,
+    "blockTime": 1715931393,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1681,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "168100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "4MzyfNEwFKkDeZYFKUXd7gmc5fokoCDXrkYiBCYfLBryLJDhpiGoGBptkEcdFfcjNj3gmWSB6aHa4XLZtv2LSAUf",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CyfcwDW1rJd748DXK3GdhYiGCTAVXxWsmdQRkyAxCnrR",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277640,
+    "blockTime": 1715931270,
+    "buyerReferral": "",
+    "seller": "8jeCsg5Y172NJPgByugQqYrbuRUXGrW8eqdpJt15kvSa",
+    "sellerReferral": "",
+    "price": 0.243,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "243000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/wDFW4imPA-gBX6g8WSZPytPgAOCdT14x7GMBfya22B4?ext=png"
+  },
+  {
+    "signature": "5Z2KDx52qprnHikuxeuWoETRwH6oz1frpDp2JzHB1isXqDEm8VoAFthPH2yFR777auqVKVjBrcWB2J7NuqLn3GJN",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277578,
+    "blockTime": 1715931244,
+    "buyerReferral": "",
+    "seller": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "sellerReferral": "",
+    "price": 0.225000001,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "225000001000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "348FqgjU2PqhywaxiwAmqNFREgW16ybvqZxUFyDWXk8bgTTmJ2yUrb9MgRv6cKXoPBbyfTR82E44ECLBENoQu33x",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "2m3SJaGBm6zSZVq6gbR1sFdd9sVWrjPCkynSFboywzbk",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277250,
+    "blockTime": 1715931105,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/gUYJTWJOE7my30MJtxk_BDYi1FaTQM5yN5fyv7ms6Tc?ext=png"
+  },
+  {
+    "signature": "2m2wsujty6oApX9crvaQT7VYxcPVPGQeyZ4WHYhi3wkQYEAvfEY1PdEQYJuggtxJJmMXNhzD555eWTvhpNEnJUXQ",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "FESCd9JhY88Hw1xauuteqf6aqytH5QxNavZHJgTdcSud",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277248,
+    "blockTime": 1715931104,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/RS1KHwKi3paYRgUqspmO3jwcJOUkf8nI1WCRgw_SS5Q?ext=png"
+  },
+  {
+    "signature": "65G63qYjYXL1JE8R6zKbU4Zy9FX1DBbpB53b7UMMq4a34sN5voAhHJkqHTTtEdi1xwAvDUr2iwsZoBEVtALJ9LLc",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "8h2L2d4Y5RDMzmEfjZhdeJQoaPmmrMSEWbxbhUeCypp8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277237,
+    "blockTime": 1715931100,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/h-l0yYhplDNqAUYa-tov5YNSdxJPX9HzBWi_qUSzgvQ?ext=png"
+  },
+  {
+    "signature": "5bNFUJtYLFNLooCJLHAkmH68tKVbXbuUKxdwqzHHC1zgu6E527PWf2MceAjhnxjpiUhdF6g2RNx5qPyFivDefzoS",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "2vFFdD8aZ6tYymmtBgGNKLFLVxkJedT8Vscq6zocAsVt",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277235,
+    "blockTime": 1715931099,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/4KU4_fY_dgPpmG5JezYwr-sj7QzaN8JfkpDU2DUezmo?ext=png"
+  },
+  {
+    "signature": "4pR7H1vDApAunky862FVzfUaPwLkXxpDCWuyL5LRb2HrPV5DwR7f9MqEGJoHMB97F3NTVoPYa5yHQsx8WvBRyjq7",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "FfiM6Mhd1zWD2pACegPZtVhHbByGNFiUPrtLPJEDLWLJ",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277235,
+    "blockTime": 1715931099,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/_HMoLPCwKgL34X6bZ5TJ5ZGg_eRCVjwLETZtY5239Kg?ext=png"
+  },
+  {
+    "signature": "4YojVQ3k77BZhgPxgUyw5FZ3Pwe5mMpAhyjZbCmCrHt33UWUBwvLHxmQ2vCTQY1SCeRo9nD5As3fLKRyheXSRMJJ",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "AH3fvuodHMQVu4imCDRRRwnFX94t2tEetZyVcbYZM6vH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277234,
+    "blockTime": 1715931098,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/8NH5vi-kV1VgZubh79F_P2ypSteqMc6FwXq6UaJCvc8?ext=png"
+  },
+  {
+    "signature": "2Dx5pYzFrh2LDU5tJWdHsmQ5UthVoAJG8VunqXqbNEEn81x8RkCowFtN6UjT5ppcgKax8DauBPra4RkYnUbMkHry",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "GAUYQfQh37wXzMbEucBsFYBVmNJK3VJxuXCmVn1diRbg",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277233,
+    "blockTime": 1715931098,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/CeWxy8KYiownrFJwP2dnyg3KaD_TwFm11yJNv72SKrQ?ext=png"
+  },
+  {
+    "signature": "4KLedVe97U3bc67oAq9Bp6nL6bJqoeBMSpuwVV9aEYTtMCAVJkPApVAA6Tp4DM6c4SPr6Vvu4rvqM69Gw1Jb7nTU",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "ADJdYENihMMeaRjw2AndzJxDNi7Ca3dBAgo54xJVqJkH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266277038,
+    "blockTime": 1715931016,
+    "buyer": "7xwtUNvZyBcxTvZbVjBvomVwDr2eLuffnxXuBY2iXjXt",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/UhByfRabU4B6uBYjAQ2uZef_9WkWnODBCQgxNUWugDE?ext=png"
+  },
+  {
+    "signature": "3QjKRRFfS4maKBhvynUKnnVvU8HBHbN6paeLV2QW4SbP3JWHmvayoSoqfkMzXQzaJfSbzYhaHAmVaDBMVs1dNaFn",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266276931,
+    "blockTime": 1715930971,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1711,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "171100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "4YGFE9mzpRt6Jr4GnhhT56ah89Dajq1bC55scPGWj5dVV5R8shanDkHhdpKBz5WZgr16U2VAepZGmrr3ekYnZvAY",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266275991,
+    "blockTime": 1715930561,
+    "buyer": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.19062645,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "190626450000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "LvQPVfE9eRRu4p5ov8JJbBrcHtf4f9ysYByi5zf8b25bCGJJwSZ4XgvRMNCEVnTSpbWmyJD4rN45kqeTzQVJgVt",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "ADJdYENihMMeaRjw2AndzJxDNi7Ca3dBAgo54xJVqJkH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266275545,
+    "blockTime": 1715930370,
+    "buyerReferral": "",
+    "seller": "HRcToaLAU1dqoWS9w53MDxeEoGReAroMyb9WhsQCBMiH",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/UhByfRabU4B6uBYjAQ2uZef_9WkWnODBCQgxNUWugDE?ext=png"
+  },
+  {
+    "signature": "3vE7BDfnBQW67jgsjDbLTXo8y9RmPxNjLmHWXSvP5DXGBWgTEE19xSstGCYtYGjXp8cSKZYNCS7e7N8oUy6gHtFd",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2GdEn7d96ftNtQ6dkXHN7TEMD6ARzxKZpKviHMSrkBoo",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266275398,
+    "blockTime": 1715930309,
+    "buyerReferral": "",
+    "seller": "BfNY5knkpa1xyE8Cg4mjRyA46AWe2VSP4wniZt2KYGzx",
+    "sellerReferral": "",
+    "price": 8,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "8000000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/L8U4dB0ddES73EkNDiM50Kqur9UklTbBzdBdJFcIxz4?ext=png"
+  },
+  {
+    "signature": "357ZEAobcgY2Va8tnjuvbBaBuPxrEJYtHRjsxosMKadX2YaE14WS6ESHUM2bJ1ZHp3ScUr3vHpgiuP5AJH2Xn2g3",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266274964,
+    "blockTime": 1715930120,
+    "buyer": "R3bR11wsxerQgwvf4k51d3Xfv9VB8fZyptjEzWn5jLw",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.179751739,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179751739000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "2PzvSVR53r3oLnRrH56uV4hLQzBXAXwC5BCTQYVpLjR2XV4ocdCi4jD6dNzJPtYn7z7zgjbN37wRmHxZJea1Ricp",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "tVFJRnK8ZgnnFAX7mXKjqxPVRNc2idMM37gstHaEnqb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266274296,
+    "blockTime": 1715929826,
+    "buyerReferral": "",
+    "seller": "GhuCG7boj9KGidjBLkjhALkAMxcyUUQh3d9KhMc7uo6U",
+    "sellerReferral": "",
+    "price": 3.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "3200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/MXyJUrqxdg_y0BMDmC4bEhbJrcRuXrlc7lM6DcwUPzA?ext=png"
+  },
+  {
+    "signature": "41HcxMPeERy8DqxH2GGP8agMLdttGsbtedCzSZpqHutByxvAD5qTM8SFxSfwhLDt184ZRdPPobhXUxQqpkK9REoG",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "DitoQBTFFpjRLxnCUvaYq7QBvorowW7y7JyiUsHbZdkU",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266273940,
+    "blockTime": 1715929672,
+    "buyerReferral": "",
+    "seller": "3QoLmFtxTSq9BGHaDNp2vj2got8EDXivFz6cxWCEozM4",
+    "sellerReferral": "",
+    "price": 1.89,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1890000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/fjq_5dVgc4ZbfssjzyWF99fatbO8fCZKczy7pIu5CUg?ext=png"
+  },
+  {
+    "signature": "5i6bmpKv5DG7pxs1kW1dzP1M2zX1Jv7vY8sqo1Gs3zZJyMuUeCjZvdUsdgxdkmHZJpXKV9p4Y2q81M866nxFxrCE",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "5dbZo1i9xR2V5piPnbj6RXyyUsWNYy9CdZNwEbtcxx84",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266273893,
+    "blockTime": 1715929652,
+    "buyerReferral": "",
+    "seller": "3QoLmFtxTSq9BGHaDNp2vj2got8EDXivFz6cxWCEozM4",
+    "sellerReferral": "",
+    "price": 1.69,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1690000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/FDxS2oxumvNVWG9jV2g0TrvO9rsN68b0CMVnklX7Bjo?ext=png"
+  },
+  {
+    "signature": "3gP8hwQDFZnPpnac4YsC6WWSH4vrUS7eVDF4eVuRgSRWf9cvm1zL5Uqscy3o81Q2i4ycUxepSxYf8PfGYyYRAUBj",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "574mzs9EGnjQkY6ezFr6zwm2mwpZkYcX8NsC7S9mgQZn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266273881,
+    "blockTime": 1715929647,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.38,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "380000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/t4cW-cCBsdFjqoygR8wPm0Y8j42WfsNQM_STJLl9NZc?ext=png"
+  },
+  {
+    "signature": "2kLPbXVNNEwEHk3uAFAoqhsbGpm1bXPBcfkEs8YHutx3yQmWV2NWKpAz6g5g5KTHU4HGiCYCJeH5MvyLEvgiPG8y",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "DitoQBTFFpjRLxnCUvaYq7QBvorowW7y7JyiUsHbZdkU",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266273719,
+    "blockTime": 1715929575,
+    "buyerReferral": "",
+    "seller": "3QoLmFtxTSq9BGHaDNp2vj2got8EDXivFz6cxWCEozM4",
+    "sellerReferral": "",
+    "price": 1.79,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1790000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/fjq_5dVgc4ZbfssjzyWF99fatbO8fCZKczy7pIu5CUg?ext=png"
+  },
+  {
+    "signature": "5A74XMEtfTY9SCBbr7qPZyVna2yoYWaHDeQVFyTNxt3V4cwMGsFCQSok3ofpkbtKEBtVda6A2BX3MEx6GFwEm2R2",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "CxKZKnem2vHUzs41Y9KUSd6T77LrghbxfcbWiN4XjQJo",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272934,
+    "blockTime": 1715929230,
+    "buyer": "ZvWRwPk9dsYLkPggnWhewuh9F6LW3VtmNvWyhSFSWMS",
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0.2031015,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "203101500000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/UfRdkW_8E91mVU8MJvNccOQ9vyy6NkGbaG0nzou5g7g?ext=png"
+  },
+  {
+    "signature": "3v18cvdsqeZTa3V2pfJVsDzh5YLzcARqi83n8Mck1mzGorDXkUMpgACccEpnXsUBLjYARBdVnDaVDvAQ1gvj6V4U",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "Ccv5ezmwgQV9PPx1pwwJfnVijXU9Ft9JQJV64AtfaXtT",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272933,
+    "blockTime": 1715929230,
+    "buyer": "39fnWyTEzTZDP8zriabmaXncHPcJuqVHqSHA26g1DvWp",
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0.21315,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213150000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Wl5VVrzHjL56Cbcxs8AV4PKL_mb1fjIgurNrqh-0R60?ext=png"
+  },
+  {
+    "signature": "5K7FMpXuyrFzCzoBzuXJVZJjfyUs639bsqZuG6kHi1CZAdDqdNBRJqPK5nhL4pAox6Pzcsv9oRWUPV3DJ1MYVRdj",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "7iW5sRckLEnrJE9w4h65E7tMZ4Fqsr3k5qCL8cHQBiPz",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272932,
+    "blockTime": 1715929229,
+    "buyer": "2nF8JXSjipvHmqPc1QMEsbzpajMcg2N1YdS5fWzD9HZ3",
+    "buyerReferral": "",
+    "seller": "787UtABArG9sjdpV8rQsmJFDv6dUn2tH3rHeh8gzSVS3",
+    "sellerReferral": "",
+    "price": 0.232435,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "232435000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/HAga_z5JkTLlxub7LW5AkZ2ShTi3paNTnU0KPCyK0Fs?ext=png"
+  },
+  {
+    "signature": "8NwqS5s8D4XJiSRbVT3o85AhXYjxS5FzGMZgU4fm7FnwZKwFt4YxF677Hn72Z8Y6cBqo86uPgrw6qnpqDf9y5oJ",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "7iW5sRckLEnrJE9w4h65E7tMZ4Fqsr3k5qCL8cHQBiPz",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272924,
+    "blockTime": 1715929226,
+    "buyer": "787UtABArG9sjdpV8rQsmJFDv6dUn2tH3rHeh8gzSVS3",
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0.259915,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "259915000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/HAga_z5JkTLlxub7LW5AkZ2ShTi3paNTnU0KPCyK0Fs?ext=png"
+  },
+  {
+    "signature": "44dDKtn3dKAjveMWRZjwDnBGdQM7hYpjQ2Qh3USxXrpwzE9P8HnQNj9htNsDRyhXREAkYHHdYmygu5sNDJBAdcsH",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "J8ndbFQxwKuXu79GfN7FcCqvwjWeH6Dhpm25E1DpMSBA",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272924,
+    "blockTime": 1715929226,
+    "buyer": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0.213150001,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213150001000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/JMA-2_vUcNncKBd4CJCUWpp7XgWTC2SqyxIqr8i82Lo?ext=png"
+  },
+  {
+    "signature": "2i2v1ikfJ8cwc99tLFdTa2aymaAxx2UXut1dY62JMZX7uwzcW4kUMZ3wQYaToZbJfd4kaSoR6CKfyNoSkYcXf5C4",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "CxKZKnem2vHUzs41Y9KUSd6T77LrghbxfcbWiN4XjQJo",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272889,
+    "blockTime": 1715929211,
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/UfRdkW_8E91mVU8MJvNccOQ9vyy6NkGbaG0nzou5g7g?ext=png"
+  },
+  {
+    "signature": "21XNW5iqFaM6UWD9pfbQC1SZpMy2gEV63K3ULsYo5waxHGMtYoAqRBrT7K4ajFTCoyHGyPcjsUi84FQjdewNrnD7",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "Ccv5ezmwgQV9PPx1pwwJfnVijXU9Ft9JQJV64AtfaXtT",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272889,
+    "blockTime": 1715929211,
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/Wl5VVrzHjL56Cbcxs8AV4PKL_mb1fjIgurNrqh-0R60?ext=png"
+  },
+  {
+    "signature": "1uab2Ckt58ctUxmNFUj2WmHNLUkEKMBnFmEXw7VJdbq1SYVLQSTKJaZdU5xy8ythdP13eDY6wPvkw4wHaBMnb7a",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "J8ndbFQxwKuXu79GfN7FcCqvwjWeH6Dhpm25E1DpMSBA",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272889,
+    "blockTime": 1715929211,
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/JMA-2_vUcNncKBd4CJCUWpp7XgWTC2SqyxIqr8i82Lo?ext=png"
+  },
+  {
+    "signature": "3cCMgAQ5R7fHqvqrom99mzSgGHdMgrgFCnoi48z3XkUJXi3Xbod4FHXtQDvNhHfPyjruSBhX7nJP2sM4QRRzyk1i",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "7iW5sRckLEnrJE9w4h65E7tMZ4Fqsr3k5qCL8cHQBiPz",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272889,
+    "blockTime": 1715929211,
+    "buyerReferral": "",
+    "seller": "6SmfqyzotwUYHpQqX46VpdueZe8mkvGJgMFUbhv83D5m",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/HAga_z5JkTLlxub7LW5AkZ2ShTi3paNTnU0KPCyK0Fs?ext=png"
+  },
+  {
+    "signature": "inG36gb6HE61ySuzhXTCfbs5jngTbfnctZAsJ2Xzk34yKD9aKPs3gwo54nYnkVCGqwzdprAY4x2Wgc6fsmRSLks",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "574mzs9EGnjQkY6ezFr6zwm2mwpZkYcX8NsC7S9mgQZn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272884,
+    "blockTime": 1715929209,
+    "buyerReferral": "",
+    "seller": "5zdXSqin1EN7P2hGGLdYhoiWyhPMMvZpd3Y6UADEFAjG",
+    "sellerReferral": "",
+    "price": 0.38,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "380000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/t4cW-cCBsdFjqoygR8wPm0Y8j42WfsNQM_STJLl9NZc?ext=png"
+  },
+  {
+    "signature": "EGAjQXZUWKdLPRm6y661jDzJ3Y6EnBaw2bQyKkSpWDVmhc7EfbD24gFHj3GcovrwyiM39i3b6VZfWRNdTczQmZF",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "ApH6AxpK54J3BdEvfcJb3skAUNMGgKGUryFb2o6gTti1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272879,
+    "blockTime": 1715929207,
+    "buyer": "3qBxjDvbiup97ojy2xsZd35321GYCWqsagKUaDUN2GWs",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.23578,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "235780000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/vMBRs47fAMAEq5wdpfXhHfrgJM7O9AAkM30WjapypTA?ext=png"
+  },
+  {
+    "signature": "414hm9w7syDxVJ5EYJd36dukXLCeRa4SckoyUtvaMevgdvRgtzq3jFsop6MX43riA3s6yWxHTasevz6oY2P4b3yL",
+    "type": "cancelBid",
+    "source": "magiceden_v2",
+    "tokenMint": "J8Kg7fUSbndn524R4xiwYC9xy8XH81RKGsuAEXPsP6Yw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272665,
+    "blockTime": 1715929115,
+    "buyer": "CeiVpTkt7seazsetWUSUMZCPAUZ9Q23AFi2FQkwzjhWm",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/xqSraMv3IKrgDX2ROqqrJXWoEAEwN0-0jb5NBRfzFkQ?ext=png"
+  },
+  {
+    "signature": "587RAsRC6KkDsKte9frEufXNV3rvP7Rwr5YUzHsUm8Jx6vrm6C9f2dZjbMbWMVt88Z9Se6oa33wkqD5pNFJmUakH",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "GWWtY2uBn5ZN6eGsrvip1wupMs45wvR4yM42yM3c7163",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266272041,
+    "blockTime": 1715928844,
+    "buyer": "4YJdpikmBBFdicqL899vd2Uik8YrGkNBGVrWTHoAi7iD",
+    "buyerReferral": "",
+    "seller": "6cozvUNaSr2vsDE8N55nNNgwZAiuzmo99kLHwm2Nfk8q",
+    "sellerReferral": "",
+    "price": 0.214165,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "214165000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/jRP8h5YNXJR7RTu6hmtUfOsiTcmDbCojTNf3VhEp-D8?ext=png"
+  },
+  {
+    "signature": "5n6hN2jvFLAS9zg8c8BqnN9mVyMcdqiKp4zJramqKgK99ct5njPmJteP6rfE8eJQw9UQAYtQCANUubqdEBv7p3q6",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266271920,
+    "blockTime": 1715928791,
+    "buyer": "5VVFwGhpk3GPXoq5A88bbTNgb7V8kYA2LNEb2QVwckPb",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.179626,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179626000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "5exf6Eyo7NwwFV3LLNVWEQvqoC7jTdCe2ffcJu6a5pWuqAM5uPdd7iQLbzjuft3pSVqipcadz7zbWT1voWUgZnPa",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "8qQqFRXbyKYivH3JPoZqiUxQWKbA9y5XX31BJRGxSm5s",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266271824,
+    "blockTime": 1715928750,
+    "buyer": "6cozvUNaSr2vsDE8N55nNNgwZAiuzmo99kLHwm2Nfk8q",
+    "buyerReferral": "",
+    "seller": "HDYcSrzehMKvueyZwBAnBwFyzzvb5EMC1v1Xmui4tmR1",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/-eqgUebTl33oQgfrswGt04lgKaCUvep5wy6Hh1VjprA?ext=png"
+  },
+  {
+    "signature": "3asLMUAn2vrkAU6wGRE6ZfS8QKMsPivZ9LZ5YDApkX7Qq6ZPHtoNDPsPxLDC7gD8dqmZQUBvVTr7X8xqw3FNwcvY",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266271779,
+    "blockTime": 1715928730,
+    "buyer": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "buyerReferral": "",
+    "seller": "5VVFwGhpk3GPXoq5A88bbTNgb7V8kYA2LNEb2QVwckPb",
+    "sellerReferral": "",
+    "price": 0.219444015,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219444015000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "xV3hpe7YgFPyPmRp3iNkA7g7DRgPRPb9Jn5gTiYUwoADQJo3LG7bA3twN1datSK2ooqnEJz1FBt3KSp8MYnCam8",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266271414,
+    "blockTime": 1715928573,
+    "buyer": "88EPT9NHb3kT72vFxkpVyysa7TPgNXX3zYEhu5J2zaHR",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1795,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "4Guoc6Qan5tq2Apymb1xnGejDKvwueGjaRUd7sB3DtxXYJ85kKdmwHbNJkFZnY2HyYrGECfCe3CeaLCR8iJr3q3M",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266270908,
+    "blockTime": 1715928354,
+    "buyer": "R3bR11wsxerQgwvf4k51d3Xfv9VB8fZyptjEzWn5jLw",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.17962565,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179625650000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "5gUmnhWJhD9VK32rv6Smw913VhRukKh55aHKwcuxBUkDrZxQniGQMoTXQehXkkXiwbhBMqGydjd71E8aFwB7JFZB",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8wBzEtQmgfpyM7omPy3WLAVDxc6V7Jb3wYNPcmXpfNZX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266270492,
+    "blockTime": 1715928170,
+    "buyerReferral": "",
+    "seller": "5Lpk8SxyyeR9ZatF4j8hSnUyt9EsdCfuE965sSCxaSAh",
+    "sellerReferral": "",
+    "price": 0.45,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "450000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/pPyzOOy__DN9A62Z6FiRY0zZySmUWv4DKf_aqNS4HUg?ext=png"
+  },
+  {
+    "signature": "3uRXmc8UazEkRNrKHpNToJSD8K2Uqi5dc9Hw58WscjvroRtYo2vKcJcUSKAMXyZXK7jx18KyV6n85tGyTyHPFYPR",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "8wBzEtQmgfpyM7omPy3WLAVDxc6V7Jb3wYNPcmXpfNZX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266270480,
+    "blockTime": 1715928163,
+    "buyerReferral": "",
+    "seller": "5Lpk8SxyyeR9ZatF4j8hSnUyt9EsdCfuE965sSCxaSAh",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/pPyzOOy__DN9A62Z6FiRY0zZySmUWv4DKf_aqNS4HUg?ext=png"
+  },
+  {
+    "signature": "2i1Qbdwcw6monp9rrTj24terJGRkYYqHiunfy8pyLA2t61ovzqXomGDgUVsYfjXBEeeFPtEuvhkn6xGoG8NWEFbh",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BRjR2XrRCbzNZpuNKPnemWQprc5jn1dFLy7CgbBUALXH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266269931,
+    "blockTime": 1715927916,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0.245,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "245000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/5rwuHv3vRNs-3wmF-zq_exdi3zJRrLuaFl-dbdTIdZs?ext=png"
+  },
+  {
+    "signature": "3vpTuXQNWhDKvqFMC2YDxhSnzq9gooDrmUUzvMjCJyb7H8sxnwzUPTLAQshDeqa79GcJjEEMvKcKAhfe217BWFH4",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "GVuEMRumCC9iVwNk7A7bFdNRfSydHx4bBGLjpGonFHMw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266269929,
+    "blockTime": 1715927915,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0.245,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "245000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ZCsYoxnfOiqbRST3qjbkhhgV0vWNZWuQlS57v1bj8iI?ext=png"
+  },
+  {
+    "signature": "5YDfgLtyKA24LxVDGQr2odPogbdaGEkLpcZvTeTziwCsE8MPZNYUVfp76vKwGvpo8vqPzLT5fhFeY58f565NmhRG",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "H9Teszr2wrXxhB51EjKiKFVPZk4ZD5wAzHmZ5Y25tv1o",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266269928,
+    "blockTime": 1715927915,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0.245,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "245000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/rTswx2VepMS29noZn1ovdCOjzZnsAad6Y7jnuQEGAOw?ext=png"
+  },
+  {
+    "signature": "2qPePqrwCrgJRabWx2bLMPR7EtTiNrbFM9AvEzcxQRHZoqHmCp7dWADmcx8MEx7SUMGNs7btJy4867kW5b3EhezQ",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "GWWtY2uBn5ZN6eGsrvip1wupMs45wvR4yM42yM3c7163",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266269328,
+    "blockTime": 1715927653,
+    "buyerReferral": "",
+    "seller": "6cozvUNaSr2vsDE8N55nNNgwZAiuzmo99kLHwm2Nfk8q",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/jRP8h5YNXJR7RTu6hmtUfOsiTcmDbCojTNf3VhEp-D8?ext=png"
+  },
+  {
+    "signature": "5bmwHPr5QfZEpj1tXrFjnhxLdpaTYA3rPWT4WMEhXWUJTqWTzH3YPaQyvdiWWWMiZbEdKG2QspSBZHYPZKXwpG9i",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7Cca6MQ4fmts87XFpfHxMEJzQKZQefnoDmseihTBSB2a",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266269071,
+    "blockTime": 1715927537,
+    "buyerReferral": "",
+    "seller": "4tE173VjtpLU8XrmCKFy6wjQW5W35htxd5LZdbE94vN3",
+    "sellerReferral": "",
+    "price": 0.25,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "250000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Hpyd_JDWkva_o__oYSxmY3chXpyJJusa7oZtm2NNrz4?ext=png"
+  },
+  {
+    "signature": "51yd7NdLPBjMskzLU2ByJA3Pf1AAdSSpZJMyr69nSxr6k4zixj1MVDo183Cj2VPFxvtrAbrK9YAnTKwfZoEHuvfq",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266267729,
+    "blockTime": 1715926939,
+    "buyer": "88EPT9NHb3kT72vFxkpVyysa7TPgNXX3zYEhu5J2zaHR",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1795,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "D9aqi9YabQHv55gxxZTnTWB6NTh2DcshdRUCLjP6bcFbxqRzMckFkeN95Ptv6wcFyjD2WxEDnE5syRaVCEC4gLz",
+    "type": "poolUpdate",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266267691,
+    "blockTime": 1715926924,
+    "buyerReferral": "",
+    "seller": "88EPT9NHb3kT72vFxkpVyysa7TPgNXX3zYEhu5J2zaHR",
+    "sellerReferral": "",
+    "price": 0.1795,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "4PHByeYwx4GeShEAUAqHtrLeFHfmDh62vQnaPWKUdcREJvUcDqXmWBzNV3Vcx91kyiwPtiakkCo4cANHpNURjZbX",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266267650,
+    "blockTime": 1715926905,
+    "buyer": "2rvyZ2yQz3unhCLFSKf64sS2xun3r3y9SHT8Gn1mx6Tb",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.188265,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "188265000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "52bAenM653dzpVJL9i8VcAoPjAWF1rNG72PiBFwXrJcUv7D9tRtwaKYVi9596jWQXYNa5mBBsdY6ct2izXMC9uUq",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2J1JKLg4sqSqKeHB51jeDJuixBhxhX1jFLCzCLdbACCq",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266290329,
+    "blockTime": 1715936776,
+    "buyerReferral": "",
+    "seller": "FYRps8K5xJrqa7JM5XEM5FQE2m9jBPFCGrzBx5epnH7E",
+    "sellerReferral": "",
+    "price": 0.26,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "260000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Y_oijfgJZSpzSX-x5zhle4y8lLHiDVUZdIOu8HcTd_k?ext=png"
+  },
+  {
+    "signature": "5aSLjJyr7d4cDgAGWjpMsMosdGCBYAKGrYXv1QmDx78tiyUGuuEV2zc8CCv5T2r3pKsHGXk2oAE8PdXb1DD2r2p4",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266290655,
+    "blockTime": 1715936918,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.219899999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "219899999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "B81nogG1V9AMrFFokxzSjjLL5CV6Bi1TxYkTn17xDbxNj7SspdvCZ5DG9Xj8s1qtbeX8i78g9hnkZN2PiJjkR31",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "3C8Z7xVHjmw5XvCKKpH8tuSnJdWbWRggVrTthVBixKjt",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266290824,
+    "blockTime": 1715936992,
+    "buyerReferral": "",
+    "seller": "ALB4zVFvxQpBJekie4Vd3yyx8z59xRaGUgfceEwkSZJM",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/r3NdJlgDIIQtUfAAQv06A8FT7a5bTO9wfkcmvCwDP4A?ext=png"
+  },
+  {
+    "signature": "5z5PQLcbqQUmVGrvJzhuTN7mA51BDpKN24BuRaWD7NDcUngRcXvfDeqKACbj9tABYxLY9rUGyoRyGCkrDhtaxYUD",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "3C8Z7xVHjmw5XvCKKpH8tuSnJdWbWRggVrTthVBixKjt",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266291010,
+    "blockTime": 1715937070,
+    "buyerReferral": "",
+    "seller": "ALB4zVFvxQpBJekie4Vd3yyx8z59xRaGUgfceEwkSZJM",
+    "sellerReferral": "",
+    "price": 0.4,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "400000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/r3NdJlgDIIQtUfAAQv06A8FT7a5bTO9wfkcmvCwDP4A?ext=png"
+  },
+  {
+    "signature": "2nXkYHckoEMo61Rqm6moFokUaq66yRARMNEpPgMMJT1CuLQJ24APG95E1MuwRLdpY2tJAiyRcLZ8Eb4RMjBNaetD",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "2HX3bJAQNYamzmTUSuoNgNyyBnjHADa9Cn2XZUhh9t1a",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266292076,
+    "blockTime": 1715937540,
+    "buyerReferral": "",
+    "seller": "AETdAU3XbbTvDTSaTZk2z89q2RrmC3vFY41LqDEhBrQm",
+    "sellerReferral": "",
+    "price": 0.25,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "250000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/3aoTSlJLIaUF5azgAC2-tmkyMXyDNA0c521sDh-jNio?ext=png"
+  },
+  {
+    "signature": "2dnDpxzyF6ncXHaUqYEa12bS46pfUBVePiV7RpT1ToZbYJHV7YMvzc8VNGYecQYDjgKq9Ng134ZNgNS4s3mCFXJT",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266292021,
+    "blockTime": 1715937516,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.215001999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "215001999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "4Pfn7CuxGuBizXJBhCeW8Tq6Kj49BUC77sDGGdSb5ki76bZTaQXu6QAZYwobpmo59W5ozpaaWzMXHSHRgP4YcJLH",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9mG3mAHNmgcRNLBmyea7PkMJJvPPCMrrgfRxWhTj31rn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266292675,
+    "blockTime": 1715937799,
+    "buyerReferral": "",
+    "seller": "G3Y3cLFypuoD5EyfbvP8bvzGACuNDvMynAT2cZ2y4wVT",
+    "sellerReferral": "",
+    "price": 0.216,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "216000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/pYek9LuS_C6c0AiHAwY9vfgZ_Agnm7pxA-MYsnGshQA?ext=png"
+  },
+  {
+    "signature": "5ZEoKAr94FXrPwNFbZXCH5dJqzUua6b38mMWJ6yvKbxX7VbuB5sp99rQuyqaeoj13bgXx9F3ox49i38a6FZXjuw6",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266292804,
+    "blockTime": 1715937856,
+    "buyer": "7VyTXKhVd7A1dHZCizMVv6wCRBzDezCkJSjwaqb163J5",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 1,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1000000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "3P3gGQJAjYFnFmna2BoAfGPkYt1tV9PQ3Apq6Nm6vG9AjActd3uW4xS68d4g419WezjmcGswP6B9fwUxHW4Cbva1",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "8y9VdZH84GQaYDtnaec8bDFai4EWadWgEHFxq4jg7f2",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266295452,
+    "blockTime": 1715939033,
+    "buyerReferral": "",
+    "seller": "8V7BKc7HLdhFM2aJPxvvdN4AH3H9cYHQEwPqoXxADJ1L",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/1uNtd36uTGX841zyO7bgNDabwrGclwHwjSZYsqEa6_E?ext=png"
+  },
+  {
+    "signature": "5W6zo1zgEqZMyfk2HBr2rMXYvMhpPyYDgrowHpH7vYxCQcNDLNUCcuN6BJzDvUaWoBsQ8wZJcAyobA8kBgNHY8Up",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "6VVL2G7tpNrg9Dk21KtCSPKgkweZ9xnpdyPEkDuarsJ9",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266295392,
+    "blockTime": 1715939005,
+    "buyerReferral": "",
+    "seller": "8V7BKc7HLdhFM2aJPxvvdN4AH3H9cYHQEwPqoXxADJ1L",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Yy1kDilsJDW6BdP2UXaYrN6MDdOmKNm-GBTIl_MPwPA?ext=png"
+  },
+  {
+    "signature": "2oLeAkfckbtL6RSvV2DuvTQkaJFc7oQgyeNkrXEALRDv9MLCQtqj1D4XZds1CNrKdSNipdXrmDxEeEquCYcXbfFu",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "81YgNpt3A1C47Ez38gawod44FX6i9PoYJuk4nQa7NDZ3",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266296264,
+    "blockTime": 1715939391,
+    "buyerReferral": "",
+    "seller": "H8BHyFi3ZrWYJ63PmbAgSDjc3TKuQLujYYCXXKVwZM5N",
+    "sellerReferral": "",
+    "price": 0.49,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "490000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/GB6KmhTZNAbAQcZX4-vbm2vigXlq67zORUsA60DjZ68?ext=png"
+  },
+  {
+    "signature": "HwCfa6toz4bpp7fozNeUk9e44mHANx2H6GwimPAudq93xwgY8sWMeaMGLRBAseDmvpMeV2o14Lvib4vn5HgyzKy",
+    "type": "buyNow",
+    "source": "mmm",
+    "tokenMint": "EFbZcfK3rDYuGskNXGriWWwgDNSDhqntab2C3YzTdvod",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266296807,
+    "blockTime": 1715939629,
+    "buyer": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "buyerReferral": "",
+    "seller": "BJGU2oi3ZmuN4mWzgGohgEejzTSoBzw7v9kUL3Rs3dCH",
+    "sellerReferral": "",
+    "price": 0.1904931,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "190493100000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/0xBbngn6VBSxNEmFmMbhyd7rbPSM0VyJH7lNoqsAeYg?ext=png"
+  },
+  {
+    "signature": "2atMypfKWgK8cpEGVAhkAqEypauCjdf2dqs97UJP2FFtGADLtneXRNe8xBR8jozW9NMdGsSq6Q7rahEhVqy2L1qd",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "Fg2GRYZTR5ooUD3dvp7gyuMQahPtDRqMgyEMf1aY5bFY",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266296968,
+    "blockTime": 1715939699,
+    "buyer": "H2XcYZLDJow6Rf4wQcfzASvUizXBKv7wuCXVhMTwNwwY",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.3322,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "332200000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Zkf2_9CF-0gIXF3hQ6nv7sh9L86Yex6896aseEjIr4g?ext=png"
+  },
+  {
+    "signature": "3v7D5t7ABEdoX2cmPikG2mMEyuK5VKUiueSxefyu34jXkVyCk6kRZQt4bQgUV7upA9YbWHCtkiGcpy5Xp7vubvT2",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "22KZuGzLd1MNG9GRevy9ACdzvDEjJmiN3FNYfX6TXMwk",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266298025,
+    "blockTime": 1715940166,
+    "buyerReferral": "",
+    "seller": "G3oLV8oCatbVgbTJB88wmUqTkr8x8fe9f3HMXascf65X",
+    "sellerReferral": "",
+    "price": 0.21,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "210000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/_B2GIwI_C-UVmkR4xtDn5CYUgpsaksydjF-wQHNqQZI?ext=png"
+  },
+  {
+    "signature": "4zu8MTETpcqENaADMx717NTbFk4hPmEmrAmEQNwwwmVDGtfw3KBbMwSbm94mxYbfyJwxrv4bJAs1AJuZ9xFLxxgq",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "HhmSV9y1rdBnUv6YKjhGsf4F1FMMxEam7xXb647txXbX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301232,
+    "blockTime": 1715941579,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.213,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/8mVP7WXVazXEoxZDAxXOoRLhbxEyB2VIwpP0Ld4IoM0?ext=png"
+  },
+  {
+    "signature": "4DhJi82bxLm2uxxKRwz5zPH2jJrG38errbpL6zTRFwzZaTwrJ4TKkRcb3Kxp1Z3L8Lkt8xeYCNcHB1KjTyfbgYb4",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "68Ni9nisxMjVL7cc4FzcmDAAN4X8ihqEWeLNRf134QM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301222,
+    "blockTime": 1715941575,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.213,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eIRexY4xEf7eNjehYBCfbcbVJgGTrDoufnMEUowJ174?ext=png"
+  },
+  {
+    "signature": "5TXaQ7FVLW36JagJmKMPq9v3PFxhTamXf42aKHAKj2evzexQRqfwPAzKFGGqPFeVveSaLimq5hxnTFPpTpZ846S6",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "Gr9kVqYtQEgi6EmhDBCfYvybvafoQbL4sYpHvXGKvbvV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301221,
+    "blockTime": 1715941574,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.213,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/gTKyPQkDoNZAI-i7RmTi__yR2EsUAxXvq9spu4LRQyE?ext=png"
+  },
+  {
+    "signature": "3JC8BzAjoE3r5zWL14wJbSBcZzHqkrQG8UiBV3q4nXgyXHZjvDJcKUZ2xRDuT8j8bym1mJkWbwadqTAJbwxh9M3h",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EFbZcfK3rDYuGskNXGriWWwgDNSDhqntab2C3YzTdvod",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301572,
+    "blockTime": 1715941726,
+    "buyerReferral": "",
+    "seller": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "sellerReferral": "",
+    "price": 0.3021,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "302100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/0xBbngn6VBSxNEmFmMbhyd7rbPSM0VyJH7lNoqsAeYg?ext=png"
+  },
+  {
+    "signature": "QGvNqfyqjwoXm4VtZn9z15kZZsHr2e6dqreEfQJiu2h7iwLk4DJHqBTA4QSoSDWGFPtaeQrSZdTu3G3VxMxmRvM",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "X7YVBMJGrvmhbZ2tCwaafqYgfXTStfXvt2u774EQwdG",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301555,
+    "blockTime": 1715941719,
+    "buyerReferral": "",
+    "seller": "HH4GZ1o3fFF9Zu8yNYrMfk2PDZAK5aHR1ZbxjpQGyntP",
+    "sellerReferral": "",
+    "price": 0.7,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "700000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/s3apbSbcUB8ixSHuu4LKsTYixyXPMvWtyXdZoww9rGw?ext=png"
+  },
+  {
+    "signature": "5JcU5qvqnNG1d1zcEWZSbsWUJr5ynFrFh69dLFyXAsHey8TUpDc7qG1Tk71QK8rBW2GAdEgpwqZM4Z2EYpJDYfhZ",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266301456,
+    "blockTime": 1715941677,
+    "buyer": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1915431,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "191543100000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "2zKGN3hmsW3t1sKufsk6pnGVcH3ER2Mx48yARnHu4oQfStgRVQrYy8RjQnMSfuuEdcs2WWtcbuMoncw8YobjzRJ6",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "2uPxwaDywQ8jXpkwZ8mX8J7fanMQZuZGaaEoxAQkhnKN",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266302177,
+    "blockTime": 1715942001,
+    "buyer": "9ubCdabybQCQmospKoUcqNpePEtc1TY9o8iSnjAdqFnU",
+    "buyerReferral": "",
+    "seller": "A9sZ1fv41QEhog4VdYcbd7qnfPQaTrd1dLhooFgK57dQ",
+    "sellerReferral": "",
+    "price": 1.8105,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1810500000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Lk6MnjBHMOrVOkNJfcmrrJEv5mt6n1cO-SeDS6F7SsM?ext=png"
+  },
+  {
+    "signature": "5Y6dycEYRJbdUuugrJeFpjcG15qhhgxFCo7QEbtXGtTukc6zRNhLQuk5kH2Ln9pgMHLSvMoM4WFqeiM6KvwN8AZR",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "E6Qx8Kx31C9gjmEVJjHVmiq9uoAw8bXZr1ARP167faZq",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266302363,
+    "blockTime": 1715942083,
+    "buyerReferral": "",
+    "seller": "3wKd5Q4f4X1s4ZghaXT6DRB2KrRVdRx7Rz3MjNdgi5fR",
+    "sellerReferral": "",
+    "price": 1.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/qvCwKC2CFEQBFLeFNgh6TPu94UHQO4TQih6k51zGaVU?ext=png"
+  },
+  {
+    "signature": "364RE1ucBjzmGrH1xq6EYMnUiKqbQVJDYEVtKqRVFSqE2XxJ15qV8rEMjubcf53DV7KAesn59mnShfqVkuRV4K8z",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "2Ze9eBWXvoBarpJ9NwnQd3b83WSArkLhLfeAXpFYEkGW",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266302845,
+    "blockTime": 1715942295,
+    "buyer": "9ubCdabybQCQmospKoUcqNpePEtc1TY9o8iSnjAdqFnU",
+    "buyerReferral": "",
+    "seller": "A9sZ1fv41QEhog4VdYcbd7qnfPQaTrd1dLhooFgK57dQ",
+    "sellerReferral": "",
+    "price": 0.852,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "852000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Qn-bf8Q2W_oyDJuqDF0xXuQR4BX1DiPWIJvUkHOWJMg?ext=png"
+  },
+  {
+    "signature": "3WykuucstHU5rPhABGQJXNrvk57rb6MeoEZXCexhB4E5yJurChDhTDYmWQsty8wAD6ZnTHbqTptLkCQPzGXA6VpZ",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "CmpuX7cSqQAR1NciU1u1reKgqqHrxma7HmpjWHgX4wfs",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303090,
+    "blockTime": 1715942404,
+    "buyerReferral": "",
+    "seller": "C7Rx1NUKp34MHuZYScc3NN9YR4mhY1Ee2GLYsnsJ2xBa",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/4p8ebYKxhWiYxpMdJtkKYMROCoyluohzHHiyHnebXAU?ext=png"
+  },
+  {
+    "signature": "2En2o1xGz1uFxJx8BCQVJdtbn5qTjCu2NrGHMMaTZ3FyS1SdHwFangGRJgVz18Vz23GMcWLsGDwjX9qDMFEg2ryy",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "9mG3mAHNmgcRNLBmyea7PkMJJvPPCMrrgfRxWhTj31rn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266302993,
+    "blockTime": 1715942360,
+    "buyerReferral": "",
+    "seller": "G3Y3cLFypuoD5EyfbvP8bvzGACuNDvMynAT2cZ2y4wVT",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/pYek9LuS_C6c0AiHAwY9vfgZ_Agnm7pxA-MYsnGshQA?ext=png"
+  },
+  {
+    "signature": "3L9Y1ijLHDCyuxUGzU4H1pAbvEWCSxJ8r9GXkPxBogzPawPHhkQVy5XoLJcs3pEK5MJ2QdLYdAXjA5wfseQMJ26u",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "DitoQBTFFpjRLxnCUvaYq7QBvorowW7y7JyiUsHbZdkU",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303181,
+    "blockTime": 1715942445,
+    "buyer": "3H1PeqKpLqSjwjKMWTdsdnYsHreFFW3NFim3CA2Df2VS",
+    "buyerReferral": "",
+    "seller": "3QoLmFtxTSq9BGHaDNp2vj2got8EDXivFz6cxWCEozM4",
+    "sellerReferral": "",
+    "price": 2.01285,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "2012850000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/fjq_5dVgc4ZbfssjzyWF99fatbO8fCZKczy7pIu5CUg?ext=png"
+  },
+  {
+    "signature": "5r9BbgFvLudtYzkpRpBqQQntJGnHudSbkvkAHn7H1XpDqM5Hry5k7a6iBSLViofzHtAAJvCVZ7arw6oQXps9AR8b",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9mG3mAHNmgcRNLBmyea7PkMJJvPPCMrrgfRxWhTj31rn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303306,
+    "blockTime": 1715942500,
+    "buyerReferral": "",
+    "seller": "GZkBxPLMmzDgJMycNWrSCC5VAs9JeGgJBhCgLAX4T8ng",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/pYek9LuS_C6c0AiHAwY9vfgZ_Agnm7pxA-MYsnGshQA?ext=png"
+  },
+  {
+    "signature": "4uvYqkdKciKuRkT78Mi6bJwVDLewJcUnZnGPcMRCch9pA5dUSGJcowzxjEhpFpEHuLdezgeHh78s1D2ZzRSthQrf",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "22KZuGzLd1MNG9GRevy9ACdzvDEjJmiN3FNYfX6TXMwk",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303464,
+    "blockTime": 1715942575,
+    "buyer": "HvTKdmwPXZNM6mVTxtNz6kQNxRckBu6cRDrbraJvKdVe",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.21,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "210000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/_B2GIwI_C-UVmkR4xtDn5CYUgpsaksydjF-wQHNqQZI?ext=png"
+  },
+  {
+    "signature": "4LWXvBDUzcN17hbGj3VWB88BC3QXL2viYTYUDLcmhbUfyPQKyqvtxkrpWmkGGp2zmANCzKuco44gkpfig4YNgufF",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "3pipcesPCbP2CDG1aWvXfdzPz9aG1WeLiCbMXzEevXna",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303928,
+    "blockTime": 1715942784,
+    "buyerReferral": "",
+    "seller": "H2XcYZLDJow6Rf4wQcfzASvUizXBKv7wuCXVhMTwNwwY",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/IA7AtXzriHvSjdLx2fCaMSM0Tb-DDJ1p_IrYsRGmkEg?ext=png"
+  },
+  {
+    "signature": "3KT49oVEU8ubTZEGJTUPsfDQ5YsRAzr1og2Tf4jh4zR78xebsVxpw2aY6bj3ngUcfUuKqraSA6wAPZRrvcsPyZko",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "2pNXqHyV4BT99d29BXmArLX2fbZyYMNQTdivei1Y2BMd",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266303908,
+    "blockTime": 1715942776,
+    "buyerReferral": "",
+    "seller": "CNeWou9AMFbghJ2NJvcKNTS24fHPVEDrxC3r4vqjRPHi",
+    "sellerReferral": "",
+    "price": 0.6,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "600000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/DMTDK5A5HCZUeSfNTmkovOlkAQzCboEkeoa0W8WrS6E?ext=png"
+  },
+  {
+    "signature": "51zrBZmUVGE6NjgWErJo4waKLE5p8qYZh15t6gQDfij5LnVFnqgVr4MRqnN3K5ic372ZstV6uW75mfFjH7ZA1adg",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304088,
+    "blockTime": 1715942858,
+    "buyer": "CNeWou9AMFbghJ2NJvcKNTS24fHPVEDrxC3r4vqjRPHi",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.17967,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "179670000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "3XJKcMHtbN2dWHKUxruf9NgAspvWqftz6QWu8cJf2P9rmrwedFmyb9byGTw8tkW17hxPhaXdf2MsCXbbZ8mqQ39S",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "E3rhy1s6x8cYgv4ML6EaoYmnmvsMF8ikwJVn8MSjdRF1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304047,
+    "blockTime": 1715942840,
+    "buyerReferral": "",
+    "seller": "CNeWou9AMFbghJ2NJvcKNTS24fHPVEDrxC3r4vqjRPHi",
+    "sellerReferral": "",
+    "price": 0.213,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/xck6p2sUCF6QjDvWODzBlrdgPTS_z8nJ5g13XfeW-2k?ext=png"
+  },
+  {
+    "signature": "55ijLaMKFNn8My5UfZwZJTfHzMGk14RWTgNG2nb7HvRdKmSXD5jqsm6Aoes34NE7mYPkHSf4CSytG4X6GkE2bFBE",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "eenX92QtYZiKDR3nmgpxDE2UC5AW5RVnXbX4ByxQvHM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304047,
+    "blockTime": 1715942840,
+    "buyerReferral": "",
+    "seller": "CNeWou9AMFbghJ2NJvcKNTS24fHPVEDrxC3r4vqjRPHi",
+    "sellerReferral": "",
+    "price": 0.213,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "213000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ULgrTKBjCryWCg0QD0uBbtHROQ-iMqbt9w7ssNfNMoI?ext=png"
+  },
+  {
+    "signature": "3KqQgovUB4DRQQhRaV2DAWsFdmL8NzyLGF12yus8reJt7PhEihRaSh3Dpai6UinmT7E6uDDU8iHtg1QAX65A6UEr",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "CmpuX7cSqQAR1NciU1u1reKgqqHrxma7HmpjWHgX4wfs",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304580,
+    "blockTime": 1715943076,
+    "buyerReferral": "",
+    "seller": "48gfhz8hExm2ZKNNmHx95fmtfs2iEiGzjxPYxQ95KY8w",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/4p8ebYKxhWiYxpMdJtkKYMROCoyluohzHHiyHnebXAU?ext=png"
+  },
+  {
+    "signature": "5ifWKuBCBJ2GfjX85WeoHpw2wNPqmErq7AL1BhAD9XmeLEwMWUJkMbR3fsV5ARtWBNCcBQwTJpkBgosocL8f616Z",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "85W4A5cn7Sh9DDyMujGiJ7p3eRQNWLjCsvMkZpK1W4Vv",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305718,
+    "blockTime": 1715943576,
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/aqVUModIL2a2yWK7wNJQNtdrUs5cB1BcIoYbK_eHa24?ext=png"
+  },
+  {
+    "signature": "5pfFFkfZy4asSgVRCDSyNmQysjt7KnHEY3q8Zgwjwag2aiJg3dK9NhSMyNGkKMDTb65PnMB4xfyMAk1ptgsEPRgQ",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "6TeadHjz7jsfthy3ds2MhH3iTSSWUTJFVkRVp94d4Jzj",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305717,
+    "blockTime": 1715943576,
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/81uztOzO8-z1uc1_Iz-bd_aO9iO_L146pNy7rquIkqg?ext=png"
+  },
+  {
+    "signature": "8pUUH86VCX14YfgCmdmDWK6vVRa3mnXRW375P31WC8zSY3fgRgStctWv6WbVGnA99juuH3m3ggfcfLR2y3jh9Z4",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "Gx1ARLmerUcctajUjSW5anNZagc8tX3atWwY1xvXMzqM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305680,
+    "blockTime": 1715943559,
+    "buyer": "AjKkGmG6dCxYfENt4kfs1a2A2iGXxXHovBbkstrPhQtk",
+    "buyerReferral": "",
+    "seller": "D3bVbQBctkxNLRWTpR1Fz6Syar2NudsEMaxMdaNe6tar",
+    "sellerReferral": "",
+    "price": 0.35145,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "351450000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ozMnbpQa45tJZ98lUybYybIp2i3VzbTzQCy7-HaP0SQ?ext=png"
+  },
+  {
+    "signature": "5Umt3GcS3CgobSjdrKidKLWa2yNwU7hbGaSC5yjSWZN7Q6tQ5aBPF8sy7137kNpScVgziYQJsAYeMHpepJepSNLD",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305608,
+    "blockTime": 1715943530,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.212999999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "212999999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "3vs6GK6YMHoBmTsZfL7hHb57Ee4yG85czYfawhfu6Kn22V1G5EBMU2N6AdpcQC5DwMNm1i3vgcdXL7om4z96SSCK",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "Gx1ARLmerUcctajUjSW5anNZagc8tX3atWwY1xvXMzqM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305576,
+    "blockTime": 1715943515,
+    "buyerReferral": "",
+    "seller": "D3bVbQBctkxNLRWTpR1Fz6Syar2NudsEMaxMdaNe6tar",
+    "sellerReferral": "",
+    "price": 0.33,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "330000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ozMnbpQa45tJZ98lUybYybIp2i3VzbTzQCy7-HaP0SQ?ext=png"
+  },
+  {
+    "signature": "3dwy8vSsm5DQvp2wyJqAKQpcreyLmZ4GnrezPuSr7PZ73jRj3dtGkC2xov8ixPQ7BxifV89u2UD3KQrsmPrSnEoQ",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "6cQJcohpm6ooCw3VLaBtZ7C3expdL6gniJqCHvxZB2hV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266305200,
+    "blockTime": 1715943351,
+    "buyerReferral": "",
+    "seller": "3pB8T2F5LWazg7wFh7ehxwMc8GZVXueTXrrvVPt8c7d2",
+    "sellerReferral": "",
+    "price": 0.212,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "212000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/p-qZOGohS5FZhd49r2xke8Mjbgj7nJ8zICEoI1_mG90?ext=png"
+  },
+  {
+    "signature": "88Gjk2ZZZ4Y6EBSQpZtKypbyxQVjnox7roqUBQSFfnSjQjvaNUvfuYAoJACL8qCwhFTEpqbxVX6Hg6VCb7zF6NR",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "6cQJcohpm6ooCw3VLaBtZ7C3expdL6gniJqCHvxZB2hV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304745,
+    "blockTime": 1715943148,
+    "buyer": "3pB8T2F5LWazg7wFh7ehxwMc8GZVXueTXrrvVPt8c7d2",
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0.1980265,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "198026500000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/p-qZOGohS5FZhd49r2xke8Mjbgj7nJ8zICEoI1_mG90?ext=png"
+  },
+  {
+    "signature": "64tKfJSMx8wScFqAeV93FFPPCe5GbRTT5jQeZHVz2FhBTBMgMzVMUZvg5MKNMsjjyQHP1FGEygKPjrJ2RyrpV1q",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "AKpscHQ1gAYvLCM1uc47hND9JNXeYbFMULT2o1Mz2uz1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304739,
+    "blockTime": 1715943145,
+    "buyer": "Adj8DoVYib8LVSQXmuWtfxoLTeSmm8ZnC2ByuBcrR7Xi",
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0.203,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "203000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/M9tYesrDJGSS145JS3iRByDGTe3sUvNUrKOzvm_2fg0?ext=png"
+  },
+  {
+    "signature": "5paufqrPwpJkrCb3VFLfm4q24BHrwF5dqa6S5oM5AcsjegihMkJnXNsA1MksnD8CamGB6wcwp96RAe9T9FVyRBBW",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "AKpscHQ1gAYvLCM1uc47hND9JNXeYbFMULT2o1Mz2uz1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304732,
+    "blockTime": 1715943143,
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/M9tYesrDJGSS145JS3iRByDGTe3sUvNUrKOzvm_2fg0?ext=png"
+  },
+  {
+    "signature": "axNi4ZtLtHT5PNXH8CgTTQuTy6aja55VuBQDJcYqXKmcjrCbm1DH9DHQTwfgCS6ujAfpJscdYCGNXPmdcWEjWWa",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "6cQJcohpm6ooCw3VLaBtZ7C3expdL6gniJqCHvxZB2hV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304732,
+    "blockTime": 1715943143,
+    "buyerReferral": "",
+    "seller": "8od1PhjAdVk6S4PUiBWabggi55kP1JFgmiH9VDDXRe7U",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/p-qZOGohS5FZhd49r2xke8Mjbgj7nJ8zICEoI1_mG90?ext=png"
+  },
+  {
+    "signature": "YrMn1RPC2weybDd3XTT4mbYTACtsxHR6NttVERMrvdw961FcCUcztGoDzRPoeKDMTfaakQedqeSNc8PnewHt2sV",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "5dbZo1i9xR2V5piPnbj6RXyyUsWNYy9CdZNwEbtcxx84",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266304603,
+    "blockTime": 1715943086,
+    "buyer": "EQfGTAUHv3ephF2KzmFn6E7gJy7AoVL1qgNTZvFSsnZr",
+    "buyerReferral": "",
+    "seller": "3QoLmFtxTSq9BGHaDNp2vj2got8EDXivFz6cxWCEozM4",
+    "sellerReferral": "",
+    "price": 1.79985,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1799850000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/FDxS2oxumvNVWG9jV2g0TrvO9rsN68b0CMVnklX7Bjo?ext=png"
+  },
+  {
+    "signature": "4t4n9WiHxegQwHUuKksaoAVdnKLkrY9qrgDY8UP5bVrm7f1WqYUZHuW5yD5kNd1cBXiZ3N12aYEThDKCK9Buj5Qw",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "ApkHUo2LuHzmJvsGB8q22h6Nav3kkhBcKQdwhmPPEh7j",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306078,
+    "blockTime": 1715943735,
+    "buyerReferral": "",
+    "seller": "5zdXSqin1EN7P2hGGLdYhoiWyhPMMvZpd3Y6UADEFAjG",
+    "sellerReferral": "",
+    "price": 0.44,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "440000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Q0GspxmB_zqGRfZVmG20rbhbpev5BoZa9tPv6TlszGA?ext=png"
+  },
+  {
+    "signature": "4wzcUznFSNSxqpVkniXJqyrPwepatrSkReeZ8YApvZAAx7kkrv5vxHg1vpPFB2hi8hTEWbiV1GmKp8oiBPAPeMua",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "eenX92QtYZiKDR3nmgpxDE2UC5AW5RVnXbX4ByxQvHM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306060,
+    "blockTime": 1715943728,
+    "buyer": "99C8YG8GTFFSdHYC9P8es6FTsbnoGyHCbZbsAbDNVX7w",
+    "buyerReferral": "",
+    "seller": "CNeWou9AMFbghJ2NJvcKNTS24fHPVEDrxC3r4vqjRPHi",
+    "sellerReferral": "",
+    "price": 0.226845,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "226845000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ULgrTKBjCryWCg0QD0uBbtHROQ-iMqbt9w7ssNfNMoI?ext=png"
+  },
+  {
+    "signature": "2ncmZUjMuvy1iVtB9b3MGdwmTb2MS5EUaqZc6sQ5h4phwHvkaQskXwWpV9jRSoN2TCfkS7M5bNGjuQNLmb34i1fG",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306190,
+    "blockTime": 1715943782,
+    "buyer": "3gaBWCwSY2nRqwYdxEUrK5T1PV8dXRpZJ6uod1FFZi6B",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.125,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "125000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "5ATojA4UDkRSBSrJSvLFSq5DPw8AMHS28GmFKaqrLutUZHj3SwHFuWdEneNteEpU88KAqj7d7b9BpYbynEofFRjE",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306141,
+    "blockTime": 1715943762,
+    "buyer": "3gaBWCwSY2nRqwYdxEUrK5T1PV8dXRpZJ6uod1FFZi6B",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.178,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "178000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "L22KuFRpeWza1JXXeqksVyi54sCkseGVWLdNyderuDhD7tk17dV86hSuQgxYF5C8uwyCtsys7QNPmC8To4yrD8x",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "8H8eC93hyz6x4eXpZGyimpRFKHtd7PE8GrPnkUVyqPvw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306374,
+    "blockTime": 1715943863,
+    "buyer": "3pB8T2F5LWazg7wFh7ehxwMc8GZVXueTXrrvVPt8c7d2",
+    "buyerReferral": "",
+    "seller": "BofVsgJWKJaoPj5eGNJLREmB4gQDur7r49iQT3EdsT6s",
+    "sellerReferral": "",
+    "price": 0.1980265,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "198026500000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/08PwnqKcTSG3fHLXfjSblv6khi8Mqw_wyGc9kDq4KCw?ext=png"
+  },
+  {
+    "signature": "3RDJz7AD5gUeRD3Su8XvyHzDu6vwvX5iMMsV1wJuWwohzG6SCF6AvxDbaxCGyApXeWkMma5bBjPnRCCC1AHL1ove",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8H8eC93hyz6x4eXpZGyimpRFKHtd7PE8GrPnkUVyqPvw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306612,
+    "blockTime": 1715943968,
+    "buyerReferral": "",
+    "seller": "3pB8T2F5LWazg7wFh7ehxwMc8GZVXueTXrrvVPt8c7d2",
+    "sellerReferral": "",
+    "price": 0.212,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "212000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/08PwnqKcTSG3fHLXfjSblv6khi8Mqw_wyGc9kDq4KCw?ext=png"
+  },
+  {
+    "signature": "5JSeiNcHByLMUFAvWEPEgAMKejuGEiYAkXCD9yQBtwfF7rkQc2iSavAjEedftrqC6W8tmuk2Pj9jANAHw37f1NVU",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306560,
+    "blockTime": 1715943945,
+    "buyer": "7xwtUNvZyBcxTvZbVjBvomVwDr2eLuffnxXuBY2iXjXt",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.20895,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "208950000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "3P5SbBN9zacMHhuRteLunN29VcM3vpfPbqFpJjD4PWQ2VHLJFZMdFTHRsGVa24xXEaBKwLtdVwM77BPuoqodFDKE",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "CxKZKnem2vHUzs41Y9KUSd6T77LrghbxfcbWiN4XjQJo",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266306864,
+    "blockTime": 1715944081,
+    "buyerReferral": "",
+    "seller": "ZvWRwPk9dsYLkPggnWhewuh9F6LW3VtmNvWyhSFSWMS",
+    "sellerReferral": "",
+    "price": 0.22,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "220000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/UfRdkW_8E91mVU8MJvNccOQ9vyy6NkGbaG0nzou5g7g?ext=png"
+  },
+  {
+    "signature": "2S2h3kyXaUFhoLJwbvGuwXrzufeeUtffvz4TSNj9ipCUR6coMozSsphDmn7obeVLyERUWcHNqqvCk8qL4j7i62NF",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266307696,
+    "blockTime": 1715944450,
+    "buyerReferral": "",
+    "seller": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "sellerReferral": "",
+    "price": 0.20500001,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "205000010000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "3oW3sv3g8nWeWACXv1uNmMwoaMw2Sj1r2eRXePs2xXPjhTGt3XZhUVw3ZEXVs89B6gr5C42WJVgnQ1TBqwTNYKxX",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "AKpscHQ1gAYvLCM1uc47hND9JNXeYbFMULT2o1Mz2uz1",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266307676,
+    "blockTime": 1715944439,
+    "buyerReferral": "",
+    "seller": "Adj8DoVYib8LVSQXmuWtfxoLTeSmm8ZnC2ByuBcrR7Xi",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/M9tYesrDJGSS145JS3iRByDGTe3sUvNUrKOzvm_2fg0?ext=png"
+  },
+  {
+    "signature": "2wievbvkgc2mMqxqGzp8zqaifUkan3cZKsw1p1BTGA7PQkYmbkTzEjVMHxkhH5fZxdDME5uxzytHbFPEVwr2fbr9",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266307988,
+    "blockTime": 1715944577,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1201,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "120100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "3oTnBiqNzt3Pcj2X1sy6qX1CpKQth9sdnrVMyrrEHVrJ92Y9vR6oFvXtYZqn7z78VdNzgnpoDtA1CfDoGqKDSb9B",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "68Ni9nisxMjVL7cc4FzcmDAAN4X8ihqEWeLNRf134QM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308203,
+    "blockTime": 1715944671,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eIRexY4xEf7eNjehYBCfbcbVJgGTrDoufnMEUowJ174?ext=png"
+  },
+  {
+    "signature": "3pvFfiB3WWqnokT2u1wauV3EwH14k1ps4hWoGY4qqnpp1YN9UsB6Le3CBaxJ1LjuJWEHb6cuqquUvSR3sorZhdM9",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "Gr9kVqYtQEgi6EmhDBCfYvybvafoQbL4sYpHvXGKvbvV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308187,
+    "blockTime": 1715944664,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/gTKyPQkDoNZAI-i7RmTi__yR2EsUAxXvq9spu4LRQyE?ext=png"
+  },
+  {
+    "signature": "2WD3Dr2fzYvCSWi8BaLKCkgGyrwz6234hMQptTLhJxfDoeru8AyPDZvFJHP1HRtKFomooZ3xGENKvvYsympMKM8n",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "68Ni9nisxMjVL7cc4FzcmDAAN4X8ihqEWeLNRf134QM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308311,
+    "blockTime": 1715944718,
+    "buyer": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eIRexY4xEf7eNjehYBCfbcbVJgGTrDoufnMEUowJ174?ext=png"
+  },
+  {
+    "signature": "5zh5eezuPif5q5zufRpLhXZNhCAQHkkayY9YdguUyPvvR8XU1WLqtXUTt4rccVkxmhHsGBHbfPLibSudThWSZn5N",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "BNZQsg12ynMh8K5S2mCKnL4Ber5GaRyD39iJvpLzuXGN",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308256,
+    "blockTime": 1715944694,
+    "buyerReferral": "",
+    "seller": "BJGU2oi3ZmuN4mWzgGohgEejzTSoBzw7v9kUL3Rs3dCH",
+    "sellerReferral": "",
+    "price": 0.74,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "740000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/KLAnar72wFJVPTiVIaI7RDKJIBj7hAjK6VTOXVHKmr0?ext=png"
+  },
+  {
+    "signature": "4gJzVFGhXkHsWtvDY8EmrUBAqZRFbFJXJEJv1QkA4c6MSCGCzrWbEmSDwrFfYvfAzQMMK5Wpw7D1WmFEW89No3JZ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "HhmSV9y1rdBnUv6YKjhGsf4F1FMMxEam7xXb647txXbX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308217,
+    "blockTime": 1715944677,
+    "buyerReferral": "",
+    "seller": "DLeVh1VVG1CUEbbrszQqUh8w17t1fp8uK5CXfSPUTXKM",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/8mVP7WXVazXEoxZDAxXOoRLhbxEyB2VIwpP0Ld4IoM0?ext=png"
+  },
+  {
+    "signature": "3aJZYoZ1v1PtgF3BmugunpZF4KEh67cAioRBrb4HFtaiPKUe27L5mg6PNCt2KEWujFizmfZfMsZYaTJXvh8CWjA",
+    "type": "bid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308715,
+    "blockTime": 1715944897,
+    "buyer": "GYRtWZfxFUFERNn7d5F8pejwGSuCmCCPiNhnqiqkBLLE",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.1251,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "125100000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "5L2YPQDLTgVBncnCFjxcHCEzZ5o6ikE86dBB85EHKXVVra7dSmdXxcirWRVoeMHBnV8hdw9vJxenfbLSTmrWjy64",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "L9niFpwCYhzc5nv6fXpK7T11fmvzrcUMALpJUu6kDHJ",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266308934,
+    "blockTime": 1715944997,
+    "buyerReferral": "",
+    "seller": "9NmriDeF7RmWwiWHMAjEpKvMb2aKcQui27jZaB7HMs8M",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/fgnaetzxLfO4n9Jei-kPAjsoEtGIcBjhkHMX5RoKL6k?ext=png"
+  },
+  {
+    "signature": "4kDgWghAzgDtpcMXBsvsDDxZipAbqZBrQcT2PkhUTVvApfCvtjVtYtfPoJoFX1cJfxAv8sHHfpi93FS381tuhNUN",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "ni11g4zvb9nfvHBvNwGvTyfbg8jMnt8sC5FNRuWexWT",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309160,
+    "blockTime": 1715945096,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eA57XS_1u5GJIUbRaMx_Q9eFXmBPvT3wBIoDqsAfByE?ext=png"
+  },
+  {
+    "signature": "3eQkihhZ48mqkA3KSgwnjWwRhrukxJ1LF8CJsexd3PDYyWKtnk6eepbQ5icPDov8gYRnL98cfQ9eP6a2gWHuidGr",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "5hBtCjvgkCyfqYKs95ejQmhdwT3bEirsG97tkxPMjr6g",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309224,
+    "blockTime": 1715945124,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0.3,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "300000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/BpsvtnwhbcJ6aqeHxyOO18IuqfYj0Ei4GBmw3W7xLeQ?ext=png"
+  },
+  {
+    "signature": "4fev55yAz1b2kPMJHLNPQekJwWP6btDXogri85gHrZdR7WCmMgtbZiLaEefYGRkVtCyAX7ctQqnMAkZqiWftrQwv",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "4HS1DgV3QXHAg1SQpi8oZfNmHh7hKpHSk5txzmwiQFJv",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309397,
+    "blockTime": 1715945200,
+    "buyerReferral": "",
+    "seller": "EXHVieMv4hG9NEmK48rF96a9YdWbGQMmi1DuHzRLiEUc",
+    "sellerReferral": "",
+    "price": 1.16,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1160000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/F-E9RIKYYaiZ0bJUkFuDBaZIJb8_lbAw2lZ_KQdKgo4?ext=png"
+  },
+  {
+    "signature": "3aKBvzD5daqRUXVVEyAb7acQp3dNo2iFr1hggFGNWDi6xqqWKrncbi9YzYQ22eMyg5dx4J6z5nRSrq4QLp4mqyWv",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309380,
+    "blockTime": 1715945192,
+    "buyerReferral": "",
+    "seller": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "sellerReferral": "",
+    "price": 0.1950001,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "195000100000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "4is3DcnJoMeCC2xbSNjdy2vh9g3afpwqfDQT9cJcN2oQLNrcc7zfcAbdjj9Sro5a3qGardSMjxLSD5vsCHq8K25u",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309861,
+    "blockTime": 1715945402,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.211999999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "211999999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "44zhEbtEhPk14sbb6vKh63w95EiFcs3AobdWcuSx1hYYAu2RmBUgefqHqQgMWTdipj8KBAfynvEv2jTw6kAqBe77",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "6pcy7PVcUmtKNJR1VovJwnQaPn545gqf9NTSvygAN14k",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310008,
+    "blockTime": 1715945464,
+    "buyerReferral": "",
+    "seller": "3gGAyeFkPRGbcVVetoL43JrKy3sFoi4bqyKPZtHGjzXE",
+    "sellerReferral": "",
+    "price": 0.21,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "210000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Adn9l7wvTSDe9QS14a1Ru9SqIhruPgTLKw-x4KfyXWw?ext=png"
+  },
+  {
+    "signature": "9cokyqauTHkAedVBJszE2zAfy6DtW3eQuVgY1Luj46HFvpbXfv4Npv7uWiRhkvk6AqLDAycuYRBt9JM9ZymDuhD",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "84s8W6ygatFsXUFgpDa2jXw3ABtnbXVAWxLbBv4nULZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266309891,
+    "blockTime": 1715945415,
+    "buyer": "HesL6r21BkiwtzfwuZkw7RuYDpBBUxCAQ88Q7WNycErp",
+    "buyerReferral": "",
+    "seller": "DAoBC8rUhhebg2rCPd1xosWvTM486Lnc4j14HwewvXKY",
+    "sellerReferral": "",
+    "price": 0.207675106,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "207675106000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/shqR5Ae_PxOjK1iG9bfQ6Nvy-x5G4if9xndKQi1iExE?ext=png"
+  },
+  {
+    "signature": "57Q8kZh4VmB1n7uiZBuuNstHvCDAmKpWBk6dEegpDnjcxDQ3koKbceWPQ3WvbfSkjJJvr2eQdsnqgbyEtuJgQXjX",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "68Ni9nisxMjVL7cc4FzcmDAAN4X8ihqEWeLNRf134QM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310301,
+    "blockTime": 1715945587,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0.26,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "260000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eIRexY4xEf7eNjehYBCfbcbVJgGTrDoufnMEUowJ174?ext=png"
+  },
+  {
+    "signature": "XjTCnnYTEqBCbbBNN1wrtuDt5H5rFga2UQGxh2xPNkB1Y4jLksiK9Tqd39Dz5p5aZndy7D5UgqDZjR9uyWr9qJ5",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "HhmSV9y1rdBnUv6YKjhGsf4F1FMMxEam7xXb647txXbX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310398,
+    "blockTime": 1715945630,
+    "buyer": "HesL6r21BkiwtzfwuZkw7RuYDpBBUxCAQ88Q7WNycErp",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "200000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/8mVP7WXVazXEoxZDAxXOoRLhbxEyB2VIwpP0Ld4IoM0?ext=png"
+  },
+  {
+    "signature": "5krCRK9aB41aHPrsQHJUsLphTBFibfgrK6s43u1yEX77zVnksB3ywREEsyyjxKPUzuZB9X213GXMkZVEhip1Ykef",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7WN9vKsV3JudhzmriaiY49nKdU9JZv5fXe7KeUic6rdH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310364,
+    "blockTime": 1715945616,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 1.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/kZeaE8VsKk4QWDh8XsT53kn5m6Om9jmrYrclUw3Lb8E?ext=png"
+  },
+  {
+    "signature": "2Hr7H6NeQipuVzWq5P7BReJkUed1qo1UNACtPb9kF4xsq9nfW4J9LU2MtxuCMr1owkMho4JPhCWv2H6F1bYFxsS4",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9SNMqnRDT8UbgwXufaejnDwt8BpfE2CHpvpaWKc9yQw8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310338,
+    "blockTime": 1715945604,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.25,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "250000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/heijgaDR6GzD1PdrbCtrs2SSrHljCpWFOP0HE58CEKM?ext=png"
+  },
+  {
+    "signature": "mGR4sJJtMzdQREpPdegqd1KVPVauH6awLM5bbm7euTSVofrwJ8AvgA8S37ZTxBLQBPyTRWcWuUdQDfoDZ9bakjv",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EGBQ8Ly3oPKCoi8kMUeV7rSnGfFxfQH1ihfb4pDDz4mu",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310339,
+    "blockTime": 1715945604,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.25,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "250000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/88AuEq_xNiZ92Uf8RQqIGWFZ9ftGP_8Vu94uvruVwvA?ext=png"
+  },
+  {
+    "signature": "343k3bnuXhRDuLB2iAbHjtrwNTCX4sK32sNs3WoSETYJUueSCMZHAXZVo8NYQQ3ir2NaiMCysjP5AEE8pAV6Kpgw",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "wB4U5iLycijSHrN1k7wxXmuMZhs85jaeC1EqBE1Qvfu",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266310605,
+    "blockTime": 1715945720,
+    "buyerReferral": "",
+    "seller": "GBUK9tJGfZUzNvAfqUgG3AHxzsusrq8phwNHCaJy5ugo",
+    "sellerReferral": "",
+    "price": 0.35,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "350000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ga2OeJc710PcB8nfhR3H527Gldk6bubvkgeSwbNorAA?ext=png"
+  },
+  {
+    "signature": "2g4yiCbVAdeJizasqh3MKgfac7KkpvZ5xmCt7KjqbteZnyNqu6PMn4nENtnuunVJWctfLjfJjmM5mZ5zpzo4m4Jo",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EGBQ8Ly3oPKCoi8kMUeV7rSnGfFxfQH1ihfb4pDDz4mu",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311155,
+    "blockTime": 1715945958,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/88AuEq_xNiZ92Uf8RQqIGWFZ9ftGP_8Vu94uvruVwvA?ext=png"
+  },
+  {
+    "signature": "3XXDeD7AjS9f4gquqAEtFk2G4CmZ3Ln1YNf6Q9iTDAu7eJDNghGUc8aBn86QMZTi4TpwGrRmRLPL6qddPbsPptwZ",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DZbcaAgPJ5fUvFPAL6LWwUJfsvJrTGRwXpV2N4yCydai",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311152,
+    "blockTime": 1715945956,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/2-dllK6o98HpaniFf1a0DJvVK1gFW6UUoM4PVX1kkWU?ext=png"
+  },
+  {
+    "signature": "3YRAPYaX7xT9gvyqaJBkiZA6RW85F6vekDB6pn9LQNmJ7o82nKaC3U1oR7Kwdmhfq5HzueU3Jatdh5cCXV7Ax9PA",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9SNMqnRDT8UbgwXufaejnDwt8BpfE2CHpvpaWKc9yQw8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311234,
+    "blockTime": 1715945994,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/heijgaDR6GzD1PdrbCtrs2SSrHljCpWFOP0HE58CEKM?ext=png"
+  },
+  {
+    "signature": "4CRYcBFUM4CXemzURCaFWTCWbbW4ssUCwaFVkxcvQTFN6ZgZ2oHuUKw92iEqqGSYVAfWqk6ueUyUhcHZhw4djDUA",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "EGBQ8Ly3oPKCoi8kMUeV7rSnGfFxfQH1ihfb4pDDz4mu",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311205,
+    "blockTime": 1715945981,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/88AuEq_xNiZ92Uf8RQqIGWFZ9ftGP_8Vu94uvruVwvA?ext=png"
+  },
+  {
+    "signature": "4Pe5wgXaydVFg7Mdkb5RJ6vvRJo9oy3ZrdHbbcL6GXkTiFtpNNuypuBK4cbMsj1xpjniZLyfvKg4eDdCy53mrzsB",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "DZbcaAgPJ5fUvFPAL6LWwUJfsvJrTGRwXpV2N4yCydai",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311406,
+    "blockTime": 1715946067,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/2-dllK6o98HpaniFf1a0DJvVK1gFW6UUoM4PVX1kkWU?ext=png"
+  },
+  {
+    "signature": "2Cdjj1a776YfzD8L8uk9Ptwiakoyk3fHNjmYmjNFca5Yi8Kky9e6pxZWZGtsRWpBePcscSAPmLsnRdG7W4FjtMGy",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "F2uaiPWFeFSiAFfqYEgJPTkbLpCwH88JMX49EETRE4Jy",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311840,
+    "blockTime": 1715946256,
+    "buyerReferral": "",
+    "seller": "EGi4t3ZiUftvW36hjyqmbmNSttCVWntSJLW8nycnW5EZ",
+    "sellerReferral": "",
+    "price": 0.45,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "450000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/r0fHXfpFRkefLcpIGUt2qPJoj0bSC_Rf5xv4nTo_pTU?ext=png"
+  },
+  {
+    "signature": "462GGb4aHp1cKjStWyFWL17qCFLgbJ4RMP3na5iX5u6ke526jJHuiUXcQJ98moANkhHDobvk7SijyraG9hZ3sfST",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "AK9vECDup5dqjuXE4unGgFLBRdKCxAq5FksM7WyWATGZ",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311921,
+    "blockTime": 1715946292,
+    "buyerReferral": "",
+    "seller": "EGi4t3ZiUftvW36hjyqmbmNSttCVWntSJLW8nycnW5EZ",
+    "sellerReferral": "",
+    "price": 0.25,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "250000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Cva9Ck-_8TdZLrJynNONok6kjJAgbVyjFJB8ORufYk4?ext=png"
+  },
+  {
+    "signature": "CGr4ECSYuwwa6kAJd8zh7VyQpaWy13aLomtpsQkcdak7pVb3MecoS5ZNcKuzAnD42mUdpZAe6bAGNazFAfW15Rv",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "9XjX3yKugwrhcSjCuRQbYD2oqP3jewtrcbY8tZG79X3e",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266311920,
+    "blockTime": 1715946292,
+    "buyerReferral": "",
+    "seller": "BBoNVap1xWn8ejjGykteigT2rCFdbBd1GjsANHiK96sN",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/pUs9TlIZ8kS6b6JwDUhbmlNRWg_slqS7kk5_o70Rae8?ext=png"
+  },
+  {
+    "signature": "2Hpx1TGSksjLZUT6mxbETKoR9YwWkc4uH8GxQNr3k7yJfey6RpjnmX6RZ69et7bjfSYqUZ6E2wA6jmCfUv92eq8S",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "7WN9vKsV3JudhzmriaiY49nKdU9JZv5fXe7KeUic6rdH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312096,
+    "blockTime": 1715946372,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/kZeaE8VsKk4QWDh8XsT53kn5m6Om9jmrYrclUw3Lb8E?ext=png"
+  },
+  {
+    "signature": "4git9XWG9Hd2WmSDKZzT2ESqbV9Eim7W7TQDhDDD4YbPCggzkRDiRWjEp4Lu8UTCm4PW9JCbt1hXKU5Ac7FJeom3",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "5hBtCjvgkCyfqYKs95ejQmhdwT3bEirsG97tkxPMjr6g",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312270,
+    "blockTime": 1715946449,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/BpsvtnwhbcJ6aqeHxyOO18IuqfYj0Ei4GBmw3W7xLeQ?ext=png"
+  },
+  {
+    "signature": "5TpjqHu3zRqhevCyAKi8JRnLPRc4ZdhKtD7yxm4Hn7C6Q7swQyCjhUTmU92yJMvwugeKdkDAxrcvHfgdoaFRUMoP",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "3ZpVBXwsTaM8FqrTFYEZCd5WLhk3jR4ryQCQ2Mfo3jM8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312240,
+    "blockTime": 1715946436,
+    "buyerReferral": "",
+    "seller": "9aYofuNR7r2ogTEzu56d9WLgfJG3TfirX93utG9ALT1v",
+    "sellerReferral": "",
+    "price": 0.37,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "370000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Jn9wchaIhAhCGcSvm0F_NBCbIpGFU4e_zpD4Vudkcas?ext=png"
+  },
+  {
+    "signature": "4GcQNHcqu8NBVFvZBfDBBNNckZGsPumtD3rrLNtdFwqxEgrMmgewDR3xySXQ1zyvV3Zi3peymt7XNV6NUHv4jM9B",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "CxegTWWG2EbvC37FotHxZfso4s8TUVrMTiBX5ZKfn6ya",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312239,
+    "blockTime": 1715946436,
+    "buyerReferral": "",
+    "seller": "9aYofuNR7r2ogTEzu56d9WLgfJG3TfirX93utG9ALT1v",
+    "sellerReferral": "",
+    "price": 0.37,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "370000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/dj5BJQW8SIAz2vdL7pteqpnseyXBY_BGa-7qNAjdxmA?ext=png"
+  },
+  {
+    "signature": "22yq9afnHpmizt8aiau8aDDvPXKa81rMCRS9dTSATaEE9UDsyFtU6RC6FYXF2tpfCWATkLRc6EHrj2VoALwGNNNW",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "ni11g4zvb9nfvHBvNwGvTyfbg8jMnt8sC5FNRuWexWT",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312165,
+    "blockTime": 1715946403,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/eA57XS_1u5GJIUbRaMx_Q9eFXmBPvT3wBIoDqsAfByE?ext=png"
+  },
+  {
+    "signature": "2uUJJZiPzDLenst6Vez8s4KkpnSKtFsKpXbHVZ3yKPiq5ijsD1Toz1g7stBe2Hidu34dz6uSb5LfKrmawDuLt8Fq",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312163,
+    "blockTime": 1715946402,
+    "buyer": "2rvyZ2yQz3unhCLFSKf64sS2xun3r3y9SHT8Gn1mx6Tb",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.188265,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "188265000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "5QWZoTWkfYTjmMhQfzRJVbYBwa3j3YBg5VYsRx2MaKaytit37mnKNRwbgHN8LZWrWYc1EGhKMju4XKHrjZDX8mwZ",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "68Ni9nisxMjVL7cc4FzcmDAAN4X8ihqEWeLNRf134QM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312336,
+    "blockTime": 1715946477,
+    "buyerReferral": "",
+    "seller": "6G3cPuguGntz9Z3XqvQqrR6CiJREMvd4KkV1Y7w63XJZ",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/eIRexY4xEf7eNjehYBCfbcbVJgGTrDoufnMEUowJ174?ext=png"
+  },
+  {
+    "signature": "5qE6boYAZ1oQYTe4c9m1VW636Jr5wYsbcVzscLwRmM3JmdaAaHysvEEjm88z12u8Nnsp6vXD3DZhqzq6Qqw1sVqm",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "4YKa7QwScRa7pgnhZGZYzUBUMWhsJw3cimbeKAEN6Ref",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312288,
+    "blockTime": 1715946458,
+    "buyerReferral": "",
+    "seller": "9aYofuNR7r2ogTEzu56d9WLgfJG3TfirX93utG9ALT1v",
+    "sellerReferral": "",
+    "price": 0.82,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "820000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/xAZtX6a-Vg9Sdyn_4rbqrXmoXrkGEgPFcEul9vrwpAY?ext=png"
+  },
+  {
+    "signature": "7P2q32fcHfFuiW4acRYy35NiLdc7fAVc1CrC5RFihGCoSzimXPf38P5TkssuRMrakK5DRwMtKp6BU5mrtAv2SYj",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312613,
+    "blockTime": 1715946600,
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.199999999,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199999999000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "5yLnHVGVbJg3DypjnGuhKg55wKLevhZCu3Y3gjs4e1Ukp1Dnq6GtHEsgpZ1dCZdEgXxAAi4bo6vFnR4pSvr1MkRK",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "3iPxbpnm2SWWgBCo55BSBqFWvK1SgwzebZmpd1o1rM7r",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266312892,
+    "blockTime": 1715946725,
+    "buyer": "BJqjEtwCiGBBtBZSryXusLVzbuonVCZ7tSs47Bz6Xv2g",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 1.9,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1900000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/c0chee48kdiFthxp25QzMfHGlh3wbAKfqSLAEx3xlg0?ext=png"
+  },
+  {
+    "signature": "2iZVEqBxFya2AAGffjMqKDRCqUz5qPFvoqSiVwf81jLSrWrk9jcjCxpRWdp5L7qZaxHbZVCYotVjwbhspdyjhxJE",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "9tZ7X8UymipAfNistA32utxwGEeBLnLviA2iYbpfSgQq",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313233,
+    "blockTime": 1715946873,
+    "buyerReferral": "",
+    "seller": "HuvhGtDaVqx29hXnhRhaLFMMEDYkN8cfZX7SxUsxp6jM",
+    "sellerReferral": "",
+    "price": 0.365,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "365000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/BH4Gwb4pHJIce4WhH18-8tvDqPcND8cnX6SgKAPrhnQ?ext=png"
+  },
+  {
+    "signature": "2NPCSMyJkdfM13LTuHXvbRRytHe2Nz9Rfe3HzehH1wBBBJu67vkqijzhk9Zdi9rGxqr5Suue1eMJ3RhZ5Zbx2SWX",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "6pcy7PVcUmtKNJR1VovJwnQaPn545gqf9NTSvygAN14k",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313231,
+    "blockTime": 1715946872,
+    "buyer": "5aPLZUJ9Pdyc6j87ZfMAuY4SCQ3N83ZjivBjmzWkHBk5",
+    "buyerReferral": "",
+    "seller": "3gGAyeFkPRGbcVVetoL43JrKy3sFoi4bqyKPZtHGjzXE",
+    "sellerReferral": "",
+    "price": 0.22365,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "223650000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Adn9l7wvTSDe9QS14a1Ru9SqIhruPgTLKw-x4KfyXWw?ext=png"
+  },
+  {
+    "signature": "3wiqE8iNLmXMAjgoTYWPXbe12zYMQFL6i84k6ZWBi9s1njAuheHyH2Av5f3PVXVwygH2X1qdpehTeso7EA7zfsNx",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "BcQffS1G6mZMrjbwr2P9RBY1EqmBH2xbr98ewkC3fdZb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313486,
+    "blockTime": 1715946984,
+    "buyer": "EZNQjFLKkqxEQJEJFL8U5D5Yk2Wuiw185HBDQBLzt89E",
+    "buyerReferral": "",
+    "seller": "Fje6aFq2QVLgTxE3iWRotgT4S34cqZSbWSz1wRYe88JW",
+    "sellerReferral": "",
+    "price": 0.212999997,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "212999997000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/eUSi-LU3oZcrDzhnenwg5GhSsjzvId3bSgwy7aJOtoA?ext=png"
+  },
+  {
+    "signature": "3myjdnLKfSP9sR9PV7vBQyQuK9jAB8VgGSQvMBzoXV1Y38HxmFA5479xYgG8UeyZP2eba2bqD6gm9YFBV9wAxxVF",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "5AxbpATYJUohaujBwv842xGHCNfH2GMmhBnNJv5ob5fF",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313913,
+    "blockTime": 1715947168,
+    "buyer": "53vGPRPqBYEwD4M8cWbfYjzf1iqyz3T1FaMU1tZPXx7A",
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.1827,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "182700000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/pMxLJXLFnGPUdpja93OtXS7QYH36n1KSYin3VBf5G-w?ext=png"
+  },
+  {
+    "signature": "5Ma8LMKrQwsAzcQBpAJ9HR3WuzeGKzsSaAu7Gjx8CuCSCvqgc2kfRX4CZB2My13Nx5xxBXqjQYBePApnDwyPb3RW",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "2Jk27q8yVyVa8w7K3VrFTdb2Gibo4dsbzyT8hCiEoTCf",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313900,
+    "blockTime": 1715947162,
+    "buyer": "2mpDDgy74reqA79scwt38HNjLgfirtPekucVfzghu2aZ",
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.19285,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "192850000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/HzVeFueJF_IVikYXUOTtgKBfjRUM4b8ZhtSsJz6u1bs?ext=png"
+  },
+  {
+    "signature": "3b4NiDRJq2vdAThcaF8y5zdvn17ZXx2tsiJx2LsV2yVtRggChARWRrqK59q1zRBkcDXHgE1gCfk6qqQHx6xFYuXU",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "HCBQgPvAPYLjHxodJyQiUeCHwb8UCSyy2oiXJ9srrnAn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313897,
+    "blockTime": 1715947161,
+    "buyer": "4tE173VjtpLU8XrmCKFy6wjQW5W35htxd5LZdbE94vN3",
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.197925,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "197925000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/fetbAIIKkh4UsF61DVyMBE3SkXo-HRSukfZ87beFXGA?ext=png"
+  },
+  {
+    "signature": "2VkSCGwoqCqXLTmMSuFM5Pwe6uWW6MbwTZUv8Sk5yJ8KRJk9DkUZE5raesih1DvxE4CEaenWtsvH3GK2JXYF9Rcu",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "EYkxmK6So4LJdAzKRyKECbqdrLRawfeaCbfkgu3HiqWD",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266313897,
+    "blockTime": 1715947161,
+    "buyer": "7vWfBLETLeaaPT6cnoTgdS8dKrq7JczDSVPzRRjfncX5",
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.197925,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "197925000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/w7VukApA5OtNdz7612cEb01SyMdLFmlzYctZg-jNy94?ext=png"
+  },
+  {
+    "signature": "5kw9WyqdReTqqqx51DehjnxRSynhtnjhakoSrwu4hh7mWbaPY4wuRS4SvyTDDagSqybzMeGYJoZCRwLj1Xwy5vvu",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "CMyrn237SMfD72wnjYoZurRNsw2RZqtCUu5v7zSHWNdy",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266314152,
+    "blockTime": 1715947277,
+    "buyerReferral": "",
+    "seller": "FzQYfytjijjig1Pgi2RSjJNiBPWj7GVZiMaQHdcYPAuC",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/ZB5yoGn3pPzrS_SCxZAtCW26BXYpKoJwJbBPMKa7qac?ext=png"
+  },
+  {
+    "signature": "2jRpTbb6FqSSBT5oTbL5htLhkZxgEN296QZQnVxDc7xbf81gDaE3FVMX5Y7iJevf3fHkHoA3kFqku1zFBjsKobrR",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "85W4A5cn7Sh9DDyMujGiJ7p3eRQNWLjCsvMkZpK1W4Vv",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266314474,
+    "blockTime": 1715947414,
+    "buyerReferral": "",
+    "seller": "5zdXSqin1EN7P2hGGLdYhoiWyhPMMvZpd3Y6UADEFAjG",
+    "sellerReferral": "",
+    "price": 0.45,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "450000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/aqVUModIL2a2yWK7wNJQNtdrUs5cB1BcIoYbK_eHa24?ext=png"
+  },
+  {
+    "signature": "2Abwga2gA289vj97BKXPG3UktAMXUQ31gSnjsz1qqQAPbyw8eA4wYkEAQD3apwcdENphZ3oPugvHJ6wjWnqJ8P5U",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "85W4A5cn7Sh9DDyMujGiJ7p3eRQNWLjCsvMkZpK1W4Vv",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266314627,
+    "blockTime": 1715947480,
+    "buyerReferral": "",
+    "seller": "5zdXSqin1EN7P2hGGLdYhoiWyhPMMvZpd3Y6UADEFAjG",
+    "sellerReferral": "",
+    "price": 0.43,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "430000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/aqVUModIL2a2yWK7wNJQNtdrUs5cB1BcIoYbK_eHa24?ext=png"
+  },
+  {
+    "signature": "5p1Ni5bHm6d9Un9oNgoGDRdTDD982kAPVbcLRhT3e7i4zUv4RPTyse79xB8xWcpgUChbH7HztFKbpbhH6hHEabSS",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7dTdso3t1ZqBsP3Ke7zuqThw1spihEakofjcyFnidjqb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266314581,
+    "blockTime": 1715947460,
+    "buyerReferral": "",
+    "seller": "ADaXywcAjFzFDdXKaGaxrKdefrXYN3iJvoeWb5Q4U42G",
+    "sellerReferral": "",
+    "price": 2,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "2000000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/RoOBLUwPjhnpPEfjmUA-eSgHOztSPpi54Dr7fdDefD0?ext=png"
+  },
+  {
+    "signature": "3MpFzLKRP4Yo6NKeHGmWSEKDDM9fH126N6gWnmoS5hhkL52Qm6fNvPfN1oStcvaBdwV7Sg8BWvjjXJx32y5aR5xm",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7RPxVYjCRCPZQr3RehT1AVYkR4ViY4Uge2SG9EU1iTP7",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315216,
+    "blockTime": 1715947739,
+    "buyerReferral": "",
+    "seller": "9uFcRTa4hhA4AL2g2VZs8arUcrAjgTNk3jE62QwfjvaQ",
+    "sellerReferral": "",
+    "price": 0.93,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "930000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Ivac3rAOdtMRI2R51KUqDElp8_-HQKjyZqG_aJQ4r88?ext=png"
+  },
+  {
+    "signature": "5KkuCc5A6f8TWQ88yxoD6opBN5nraDNUJsMg1tMxnz7VBHyRFngLUmFAyipm16hrDy9KhR9EYrjMYUW7vzjkGh2c",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "3ZpVBXwsTaM8FqrTFYEZCd5WLhk3jR4ryQCQ2Mfo3jM8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315176,
+    "blockTime": 1715947722,
+    "buyer": "8ZU93ocuWdMYKgXTRGjGe2Ph8fVmGdtrs6vXNTs7gf4c",
+    "buyerReferral": "",
+    "seller": "9aYofuNR7r2ogTEzu56d9WLgfJG3TfirX93utG9ALT1v",
+    "sellerReferral": "",
+    "price": 0.39405,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "394050000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Jn9wchaIhAhCGcSvm0F_NBCbIpGFU4e_zpD4Vudkcas?ext=png"
+  },
+  {
+    "signature": "2xHYWpoRYVL4DVvTvB9ZZt2qtHtV7GcKnPc9WLbzXDr691P8FFtyHnTwTsesf2n6NeZah6Wg5VQpYaVuFYCXyXxX",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "D7cKjmyXgSutuzp4dDM3gqoGYRYB8TZTpUSht3t5Ze7j",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315126,
+    "blockTime": 1715947699,
+    "buyerReferral": "",
+    "seller": "9uFcRTa4hhA4AL2g2VZs8arUcrAjgTNk3jE62QwfjvaQ",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/K_8_9qJI23rcO1ZvECVmsY5oC7AT6u8SX5ga8B-chCk?ext=png"
+  },
+  {
+    "signature": "4dqot4V5FGccdW6yLRXBiEdV5nmr9M7LGdq3tDGFjCNFFYToC3j3f1moqetN1ZWg3DxomcBSGYbF4v1ndExgFD1J",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7RPxVYjCRCPZQr3RehT1AVYkR4ViY4Uge2SG9EU1iTP7",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315436,
+    "blockTime": 1715947833,
+    "buyerReferral": "",
+    "seller": "9uFcRTa4hhA4AL2g2VZs8arUcrAjgTNk3jE62QwfjvaQ",
+    "sellerReferral": "",
+    "price": 0.9,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "900000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Ivac3rAOdtMRI2R51KUqDElp8_-HQKjyZqG_aJQ4r88?ext=png"
+  },
+  {
+    "signature": "3rMpkk658derMQuN3cHsbri9H2Yo1DQABYDfYnWKKZ46WLyaoDp6rQQdLmgcvp7Df89Vf5j655CG3bGDfSsAzutm",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "FMKmPC3bCuRVgFMAR9r1q1L3bFoiX6zN7AggpWXPau6n",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315601,
+    "blockTime": 1715947906,
+    "buyerReferral": "",
+    "seller": "61jpavcSUcVAkPSyu7AZ2q61fugPBKN5hH3LRrgbAzs",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/VVfaRs-MSpnlqA2ReJVNwX4cg1or5uU-WXhVR4Sb4kY?ext=png"
+  },
+  {
+    "signature": "2TfvHnWQvD3xJd3Bfz6HmcS1V57djvuYAnmZU8mKvRHzHxHZTxp9eShXvJrNzMt5HHRsE9g7hGoAwkS89a1jWeic",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "7RPxVYjCRCPZQr3RehT1AVYkR4ViY4Uge2SG9EU1iTP7",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266315584,
+    "blockTime": 1715947899,
+    "buyerReferral": "",
+    "seller": "9uFcRTa4hhA4AL2g2VZs8arUcrAjgTNk3jE62QwfjvaQ",
+    "sellerReferral": "",
+    "price": 0.95,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "950000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/Ivac3rAOdtMRI2R51KUqDElp8_-HQKjyZqG_aJQ4r88?ext=png"
+  },
+  {
+    "signature": "Z3sHV4zpzGEcQQ3kj1kfLN4aa5aBPGY2eb7L1SjTD1h8vhJM8cJGXzVHxe38HE66y2ray1bHbmRNXKfLeCmjKRT",
+    "type": "list",
+    "source": "magiceden_v2",
+    "tokenMint": "DZbcaAgPJ5fUvFPAL6LWwUJfsvJrTGRwXpV2N4yCydai",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316277,
+    "blockTime": 1715948193,
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/2-dllK6o98HpaniFf1a0DJvVK1gFW6UUoM4PVX1kkWU?ext=png"
+  },
+  {
+    "signature": "5aU3bEBud2TiPMrUkQosuHaPuK5PkRw2RYsCzuUrcFzFGH9EgQvccKzJxpAyBPuXvSBqsuqM1X5QhnjD8oyW63cv",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "DZbcaAgPJ5fUvFPAL6LWwUJfsvJrTGRwXpV2N4yCydai",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316392,
+    "blockTime": 1715948241,
+    "buyer": "7sgoeEdfmFH1DSh2TwAKWFcyBtBurgCaxneN8Ka9wZT4",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/2-dllK6o98HpaniFf1a0DJvVK1gFW6UUoM4PVX1kkWU?ext=png"
+  },
+  {
+    "signature": "2LeQmB2FU586bCEHQuavcafngMtm2sQYuv3iVNVAw6aeweTcWvXeLTVsCu8J5YumjWt61Sma6dx8EyzuVi26dU7G",
+    "type": "cancelBid",
+    "source": "mmm",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266320352,
+    "blockTime": 1715950001,
+    "buyer": "7xwtUNvZyBcxTvZbVjBvomVwDr2eLuffnxXuBY2iXjXt",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.20895,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "208950000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    }
+  },
+  {
+    "signature": "3N3LnYSApN1udXjxTSRyj6eJcKkLk6reCmNghaTujQYyfToj6fKyaJ9QwBTevyMgkCsm9ftgkDnMaFNU6gSZxme2",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "2nbGJqGBDvvELN5L4EcRFCsZSUpC2gsnhY7XGucbQERM",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266320076,
+    "blockTime": 1715949875,
+    "buyer": "Aagaqw9fgnvK62d9bywHKCePZXrBk8CwkZApSzomehxL",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.98,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "980000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/aw6JzqmrJjFiwmicWEwLkDRsIp8I4F-cgirgOYxaQU4?ext=png"
+  },
+  {
+    "signature": "3kruJBJTZhW2dC6ytjxXdhtrMEw1DguPhQXKPgB9Pm8WBpeLqxYmffwmTCMrLs43twRVzujhzHNxMuvni5tAKvkS",
+    "type": "buyNow",
+    "source": "tensortrade",
+    "tokenMint": "37nirq6348FiiHLnHgPR1JnfWbkSrx6VApirSQDWJ6WD",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319851,
+    "blockTime": 1715949771,
+    "buyer": "2wpbr42ndEAUTJrQ5c3S771Xtkk8nf9UneauVgPgqCVU",
+    "buyerReferral": "",
+    "seller": "CWB4brZoxmjrB5sDfNyjRFy9RYh5KYyB3i4eCyUWQf4m",
+    "sellerReferral": "",
+    "price": 0.4473,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "447300000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/AjPwC1ZsZhrRI6zLq0hWhFIWn1hQJ-Ij9ckbLD_3DQk?ext=png"
+  },
+  {
+    "signature": "p8MBem4aaBc9ERx9poyxbVCwuEiQ3bhNMJKRYLyWMRx3nnGQu6NEt9PcVci42Gd7cw9KopNYFc3KWtA5zG3dZKD",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8qamxZFcy6jiziR2k4wVWLTYx5xGu6VzBtSFWQPoZgAw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319436,
+    "blockTime": 1715949587,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/O9kBSvmNAvb0W_gVeDaOsyiat-Qndc98h5TjYDkxvfM?ext=png"
+  },
+  {
+    "signature": "5UeB6Tg5ojqRWgrUKj1oVTeraoEVAQHms5K9TuBvnGAxdJkqhR1GkcYUUHF91za1sbsUqXvbo8AyedLbSM4PVWfq",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "4ZbqJYYrXqANXRySNNu1yZgYcGjD6Kayon85KNafg3cc",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319436,
+    "blockTime": 1715949587,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/o0wtN3wIbWwnTXKYRkmDvJY2x3JvenGiwvFxU6jsMMU?ext=png"
+  },
+  {
+    "signature": "3ivE3U9cxUCLQxPt88eR1gFcUikxe8cE6xPGmzK9gtDyGDqsHPtQpq6vCUMex6UusaVZBwPAkHZv4aUMucWauNgj",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "D9Z2ezZdzkc4sfxwBdnGHJ2fgmHVFjNA9HdxA1F4fnzR",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319332,
+    "blockTime": 1715949538,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 1,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "1000000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/W7oJ-nLHozUxyna4pW0QoMldw9EsdGEOaklKuexB2F8?ext=png"
+  },
+  {
+    "signature": "2Zd2WRcUXPzyjs9xMmoQqEJ79zc4BBVu8L6rGhziHVwtmR9XUkhvnY89NmHEmcbWwostHCfvwxHxR4xQ1yYsUaja",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "2CQ2fsdQVzFAGTgR1f8ToS6pfzJckLKY5guxndyyyQqn",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319290,
+    "blockTime": 1715949519,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.6949,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "694900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/LjhlCB6kHuk254boYUdjSUNOO0Re42SxP1mVmDa4hZw?ext=png"
+  },
+  {
+    "signature": "3Rz4kVN6x3FKE8pqeCmd7tbWk1wc4Vw2PYpG3RYVbr7rS7ghkbgUZotX8jDbjUmXRcfsY1xF8ZAtdKFQANb4f4x7",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7LJSmzUz2GMSnZym88NPkiUgrSPVguKKVyZWy7wrdtRw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319212,
+    "blockTime": 1715949485,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.8,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "800000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/hLSrV7gKmFXRjb5tx8V7p2rqWHRFA0a02FDNU4sC1Es?ext=png"
+  },
+  {
+    "signature": "59UpPVM3bTPQ9T53LiqgWmEhkpJSP2iyc3y6qMoBvdi1m4aNZteGEzurSvCnzkk4w5LjjHSBEKUeaJirdWCJioum",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7iW5sRckLEnrJE9w4h65E7tMZ4Fqsr3k5qCL8cHQBiPz",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319161,
+    "blockTime": 1715949462,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/HAga_z5JkTLlxub7LW5AkZ2ShTi3paNTnU0KPCyK0Fs?ext=png"
+  },
+  {
+    "signature": "5e2WKrw9XxLvrxceoLYMN7vrNwHgr82wp4Mh3qTJoxfK1mui4ycjKHuyauDv5aWHzSSQVHfmBMUivpfAaETHEVEe",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "ERuAQFBXQmPi1rVMfFDNn1iBhUXmSLQzE2w2TMwXszhY",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319148,
+    "blockTime": 1715949456,
+    "buyerReferral": "",
+    "seller": "FkQRpn8C9upbi6SzJGf73BRFoDCCHLpVyWN9R1J17iVT",
+    "sellerReferral": "",
+    "price": 0.9,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "900000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/yZ2kOoKUjofSQGpll1Cw4VXEbBvqPMefEZjNfZwTsPE?ext=png"
+  },
+  {
+    "signature": "4AigNB8nkXsdr2iqKmPUsyDJZVs4CGnxomWKNjBxNiYLnjF1dH24ySsAZjNjB6qJiqra1ZaS6tHYjpYCTGFAZ3p8",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "BkZ8qtY9coxbYUa6gcGxKoHketR3S53WSmkrN5WpxFZx",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319107,
+    "blockTime": 1715949435,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.4449,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "444900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ndsy-P-sc8dQK1qYCTTX4GlW98SVoo0PqVa1E5DbdjI?ext=png"
+  },
+  {
+    "signature": "3zy2kD5NFwsyKwKk8ZxjGqFBdEpiypYbuvTgToQiTgb7AjUZ68JEhQueq1LDLwN79Do7jNMbszfosjQQ9NQtU34H",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "E3oYmX8B8xKH3QP6HBvUY4FEM9dUMh77V67dyc4iLm3o",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266319043,
+    "blockTime": 1715949408,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.3649,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "364900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/rWtSJv4GfIJyK29r-Y8MW-6pbppe8dEYGNsOo81haaA?ext=png"
+  },
+  {
+    "signature": "4mPLQWu61PCXCSGzuqP73vmpX17e3gFkPgYCc4zVRPchFKKRKsK2Cat2zicvBC7KxmqjenasepPg6j1YUtK9c5TS",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "Ay69mjdGgHk7Seps4v2VjBG8pTZz9BYx8pstooNCQeht",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318960,
+    "blockTime": 1715949372,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.4949,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "494900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/uIdO2qJDSjYmcxlh0jDBa1sSCfCddvoOyh_XWVJ_Av0?ext=png"
+  },
+  {
+    "signature": "2pRZJc4LXuS6ifZRNsvhnmKtPseC7FyjcY7r4grjExjLUYLFSmnpKi46ivD9jzH6N8KgvtUphXGqKGL8iQd19mba",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "791ZiA5KFfago1fMEMqYEfzkzbvhATY9yxmCbZ15zv5S",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318888,
+    "blockTime": 1715949342,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.4,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "400000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/qJWg8A22RaTR93gmoEShbpvs9QevcB6R7GY8UibwGvQ?ext=png"
+  },
+  {
+    "signature": "2oXKzm4zNXGuRqKExpQXQfDnEzTHX75FTchsScKuu5ibofLcEqVnNbxr9xALjfjcjjYx18EF6cu7G8Y6mUaLWj5T",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8LonW8RC65LW7gRnys1feMJb5eQzFfxAks3XMM7uyLaX",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318812,
+    "blockTime": 1715949307,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.2849,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "284900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/DOpJQcuQyMvgS5XcHFBS8pwP6s4WZLxIquinnwf61Eg?ext=png"
+  },
+  {
+    "signature": "2NQMgmTSmYJASXxxFrzx8XUY5srRDL7MjAffJNgWbyLsYezUdRVMQSzE2FDYTUFK7egFenEYQ5NzzgGuggAD7T4c",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "CJKuphu8c5d1acFgNFLbpfHVAsZpNBpKi31szPnQtvWi",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318812,
+    "blockTime": 1715949307,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.2849,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "284900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/U94pIFU6_G6su6Q-0V1pYm10VFOu11CjVz0MBUdfayg?ext=png"
+  },
+  {
+    "signature": "5iGrWWSxoy1t96vzBWyZnVPJ7i7mQcaXiehYgH1AmNLGwhwMCpQ6NMrYR56854FkpRkHirWervhUT2DrkyR55RKt",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "7yGk3okq5PPgSLvKVTff6JbTWGQufdvBBUKZvKX4mhJ5",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318812,
+    "blockTime": 1715949307,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.3549,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "354900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/tIOMkHPGP7l3XwvrhgbHcAXTshBWvrqjQqpyVDS6tAQ?ext=png"
+  },
+  {
+    "signature": "5vHeWcfJS6eyyBuCVzfsWLrucdJpCJd7bioAX971yC7zk2bCeMSDaqazRtRGJ4u5jpJUnbYZVXnbTN8XrxVN8H8H",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "ERuAQFBXQmPi1rVMfFDNn1iBhUXmSLQzE2w2TMwXszhY",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318782,
+    "blockTime": 1715949294,
+    "buyerReferral": "",
+    "seller": "FkQRpn8C9upbi6SzJGf73BRFoDCCHLpVyWN9R1J17iVT",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/yZ2kOoKUjofSQGpll1Cw4VXEbBvqPMefEZjNfZwTsPE?ext=png"
+  },
+  {
+    "signature": "2a7HrZFKJKR6qBKeipbsSX92YgVaXgqRUVqJu6gEnNbG4LYtE2L8VMw1nVuTkNmewonbABkeZ76MXzkSP5DSNqqF",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9s9zVVWLqEQpfKaEMVriJc98dXrTJfpBxg5hoQi66vTS",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318728,
+    "blockTime": 1715949272,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/ypjcepi9q9vW81s_0em9-QqD4DXJo3vFByqOuwY0o00?ext=png"
+  },
+  {
+    "signature": "3VJ6GP8YFFYoysFPPr4YsBTsKi1XyLk3VQQruHeNUth4oE9xMctQYxeemv3k79w3vUheNmnUmMnughPKWNCQv1WY",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8hRt9VfRGbsUPeQTaL2y88eD4aYfob6z13JwfUkQLbHS",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318728,
+    "blockTime": 1715949272,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/DozU48N1i23oWEiCkOd_1gZrXKpsjHYGchYWauj2BIw?ext=png"
+  },
+  {
+    "signature": "2tucQbRq2FZZ9iNeaWo3xrXyuZkJWuJ2efTWckT1zWFhK3VyKjsFPBue8zCpkqH7JxbRKKRgRVUCf2aYWsN8QoLW",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "99QeUgprkdz2geRZxjgrQuLmRdzvjaE2ZDEwZ1AFqAyK",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318725,
+    "blockTime": 1715949270,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.5,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "500000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/mgeC8GbYRKEbWJ00zMH3CtzXZfMXm9RZ4uikbIO4jbQ?ext=png"
+  },
+  {
+    "signature": "2Ve9FLqs5HkTWdRhKGXw1twZV2sXVoc4nUWxVkQ7SH1znTb6d3XDaq4Rs4i9a3aZBitheAwiKzqfhEQtjLLfnKLh",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "9zsEqzUkFrT1SrhX712hFVZYN2w4mWZKwQPZnNqi4iYb",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318648,
+    "blockTime": 1715949236,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 5.8949,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "5894900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/8_WCgOs5FPiE1z1_yDEViRszwyuoScpRJ50Fh6L8ydw?ext=png"
+  },
+  {
+    "signature": "3BdrnKRaE125uDSzVy36mN74EriBYiRfkt8w9muGiLLzdboTUe7DxyCRSwCzYNSEN9paK8YQcokqfgYsBrjySMhz",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "6TeadHjz7jsfthy3ds2MhH3iTSSWUTJFVkRVp94d4Jzj",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266318588,
+    "blockTime": 1715949207,
+    "buyerReferral": "",
+    "seller": "6Gbhm79muk4uZwza3Hbu6hfM6uAbUNnpbD6RsthDQWiK",
+    "sellerReferral": "",
+    "price": 0.3649,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "364900000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/81uztOzO8-z1uc1_Iz-bd_aO9iO_L146pNy7rquIkqg?ext=png"
+  },
+  {
+    "signature": "2Eox3zAzgxm3HsUReSXAho1Q7h6s4i1tb9kr14vTE4UKo3gAuhrVMBDgfUw3APR4GHfFAKEAzqc3UQ8w6TawSgjd",
+    "type": "delist",
+    "source": "magiceden_v2",
+    "tokenMint": "8V15cvkfUjdPWzEJ58hiQZjPm18HMa2eSjLse5YRwnEB",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266317605,
+    "blockTime": 1715948767,
+    "buyerReferral": "",
+    "seller": "CAFryseTs6wgzT7tDLGRr4VQqPNpntQ5UJHXWkj66rhi",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/eZPIsSI_Sq21bqMcwygaOIRWSiTiKEliY8rouNgjOHM?ext=png"
+  },
+  {
+    "signature": "3zzH2YggkgyfoN9BHQQw3SPtfCbMuur2Gxoi4KPN1CnMDpHsF1Ud5KyjZ64coSQMkY9ReDLe5E6h32ACSnVg4a6S",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "5Vuag9JcctJhJCrsKtXcqEqZxpWmZVGvL11jn7DmC1W4",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316881,
+    "blockTime": 1715948455,
+    "buyerReferral": "",
+    "seller": "ENpwsirrSdqjTiZx4jo1g2QhPDBJuhmc9HN4qBDGbyv3",
+    "sellerReferral": "",
+    "price": 0.222,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "222000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/jf8cIIQAjB-xB1V9oSXFbXeCYt_-UmHfPg3ytjskEyM?ext=png"
+  },
+  {
+    "signature": "rBw3E1eYEKqk3ZbAfWjsmv3gkCzx2LUpFrJjWb8mi1fWmBcUEKcFUa7EXUDkLopBCMW4KPLUbiyz88BYfbrpJE4",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "GVuEMRumCC9iVwNk7A7bFdNRfSydHx4bBGLjpGonFHMw",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316556,
+    "blockTime": 1715948311,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/ZCsYoxnfOiqbRST3qjbkhhgV0vWNZWuQlS57v1bj8iI?ext=png"
+  },
+  {
+    "signature": "1tLHcGLWHzqsvRZj2Usq463K5cowiwJ4DNE3HaY1FeNsyAhXC6VAnBFczCxpJzp6wvinFCTZX5SxEoxkX3TqFxt",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "BRjR2XrRCbzNZpuNKPnemWQprc5jn1dFLy7CgbBUALXH",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316556,
+    "blockTime": 1715948311,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/5rwuHv3vRNs-3wmF-zq_exdi3zJRrLuaFl-dbdTIdZs?ext=png"
+  },
+  {
+    "signature": "4W1B7kSHghNXxByUQQiZwwSHwaYdk5AwzVUqoS1Gz6V1AcRWSZonZ6pmEwtAQ3y6bYC9rE6ep7gkZYqde5i9vxe6",
+    "type": "delist",
+    "source": "tensortrade",
+    "tokenMint": "H9Teszr2wrXxhB51EjKiKFVPZk4ZD5wAzHmZ5Y25tv1o",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266316556,
+    "blockTime": 1715948311,
+    "buyerReferral": "",
+    "seller": "7Z4nRwL3hTxMLMDZerTt55VaV6rE88oGreX1PbBR17t6",
+    "sellerReferral": "",
+    "price": 0,
+    "image": "https://arweave.net/rTswx2VepMS29noZn1ovdCOjzZnsAad6Y7jnuQEGAOw?ext=png"
+  },
+  {
+    "signature": "5tMfaQPDBujvUo5tP5g2fyd6SqR5vMCVeJ21fFb5Y3qEnKtgKEdMKeyAvJiTQbXwAEcfYAG8xZxY6cPutq4NE21q",
+    "type": "bid",
+    "source": "magiceden_v2",
+    "tokenMint": "9SNMqnRDT8UbgwXufaejnDwt8BpfE2CHpvpaWKc9yQw8",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266320614,
+    "blockTime": 1715950112,
+    "buyer": "7xwtUNvZyBcxTvZbVjBvomVwDr2eLuffnxXuBY2iXjXt",
+    "buyerReferral": "",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/heijgaDR6GzD1PdrbCtrs2SSrHljCpWFOP0HE58CEKM?ext=png"
+  },
+  {
+    "signature": "5QptAoJ1xqrCVEJRK28XxXn7RKuQg1Nz5ouGcGvEjMpujNHHmdV42QKNGB78wTogCjzSgGpmaC3hNDmHxpdv6wRj",
+    "type": "buyNow",
+    "source": "magiceden_v2",
+    "tokenMint": "EGBQ8Ly3oPKCoi8kMUeV7rSnGfFxfQH1ihfb4pDDz4mu",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266320868,
+    "blockTime": 1715950231,
+    "buyer": "7xwtUNvZyBcxTvZbVjBvomVwDr2eLuffnxXuBY2iXjXt",
+    "buyerReferral": "",
+    "seller": "DDWie9e3SakN5XSDEKeFHduERTEhRYgJUWfybYEk1uMq",
+    "sellerReferral": "",
+    "price": 0.199,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "199000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/88AuEq_xNiZ92Uf8RQqIGWFZ9ftGP_8Vu94uvruVwvA?ext=png"
+  },
+  {
+    "signature": "5HrxeV32GhKWyGiRjUQUzxqLiB4KR19HiHJDLQEkfVhsj1rSs4puppZmpWs6FvuB2gox7aiNDZCeGTaoPcrHJvaN",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "8WWaHejTB7amxQ1q5g8DUzqvo5E36atWEtAAcZLyqPcr",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266322289,
+    "blockTime": 1715950864,
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.18,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "180000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/3N2TEqGooWssDmChGdEarC_cPlDWt2yIKAdXZTndzq0?ext=png"
+  },
+  {
+    "signature": "pfNtSLF5thcZWfRVrjPcRnDoQrqc3DBgPT2jBNRLkGrsmq7ohxZgYRsEYsMSW8QpLUcgJMJCqjo7BAN96uyu4ra",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "37z4L9FP1BL6TmfyDvNQF2fottExEYEYVXvgqaRqkmKs",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266322289,
+    "blockTime": 1715950864,
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.18,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "180000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/IfPmrXp_7nal7YJIcxS-vTmbxnMLhUPERvorTdrtHNI?ext=png"
+  },
+  {
+    "signature": "4wsASRUm1bJFJxyyNxUz9fbB1StyvQLkxfFJRYzEhAadfcfCCbHQXHMq5kRHD9uAqWQGyLn8RgiKfTTuw8PZS6Do",
+    "type": "list",
+    "source": "tensortrade",
+    "tokenMint": "2xCfippTLL1ccNGs3Mown1se4JuKNAXtbFs4b5fjKuCV",
+    "collection": "yetiz",
+    "collectionSymbol": "yetiz",
+    "slot": 266322289,
+    "blockTime": 1715950864,
+    "buyerReferral": "",
+    "seller": "DPE868aAXXVcy4GNMUfr8WPqoSjvBrkPjDoJtZxceNJn",
+    "sellerReferral": "",
+    "price": 0.18,
+    "priceInfo": {
+      "solPrice": {
+        "rawAmount": "180000000000000000",
+        "address": "So11111111111111111111111111111111111111112",
+        "decimals": 9
+      }
+    },
+    "image": "https://arweave.net/TOc0AcoMNxR-RCaWb9Yjxag5tmZkEnQ_8FLaCwjpm2w?ext=png"
+  }
+]
