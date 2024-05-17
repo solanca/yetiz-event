@@ -39,7 +39,7 @@ const fetchAndUpdateActivities = async (collectionSymbol: string, filePath: stri
         const attributes = await Promise.all(getAttributes);
         console.log('attributes==',attributes);
 
-        //Discord alert or database update
+        //TODO:Discord alert or database update
         
     }
   } catch (error) {
